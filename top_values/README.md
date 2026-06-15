@@ -1,0 +1,1 @@
+Counts and proportions. First word of filename shows the method of sorting (eg. tld_stats.txt contains statistics for each TLD that show what are the top countries or registers within that TLD). noMT are statistics where documents that contain MT in the register are filtered out.
