@@ -1,0 +1,101 @@
+Top 50 country + region combinations with the largest z-scores:
+{"country": "antarctica-finland", "region": "global-european", "z-score": 17.860626648385313, "proportion of region in country": 0.8, "mean": 0.03188453296755321, "standard deviation": 0.04300607599912449}
+
+{"country": "somalia-finland-iraq", "region": "european-middle_eastern-sub_saharan_african", "z-score": 15.788450876134366, "proportion of region in country": 0.5485436893203883, "mean": 0.009021952920978845, "standard deviation": 0.034171923555524}
+
+{"country": "supranational-vatican_city", "region": "global-european", "z-score": 13.099394659536264, "proportion of region in country": 0.5952380952380952, "mean": 0.03188453296755321, "standard deviation": 0.04300607599912449}
+
+{"country": "south_africa-finland-china", "region": "east_asian-european-sub_saharan_african", "z-score": 12.370247428686351, "proportion of region in country": 0.7227722772277227, "mean": 0.008109991988569102, "standard deviation": 0.05777267507049749}
+
+{"country": "antarctica", "region": "global", "z-score": 12.164627689108244, "proportion of region in country": 0.84, "mean": 0.036142306571946364, "standard deviation": 0.0660815697752754}
+
+{"country": "brazil-united_states-russia-china", "region": "global", "z-score": 11.139791679498702, "proportion of region in country": 0.7722772277227723, "mean": 0.036142306571946364, "standard deviation": 0.0660815697752754}
+
+{"country": "united_states-india-supranational-finland-china", "region": "global-european", "z-score": 10.678484765660217, "proportion of region in country": 0.4911242603550296, "mean": 0.03188453296755321, "standard deviation": 0.04300607599912449}
+
+{"country": "south_africa-finland-india", "region": "european-south_asian-sub_saharan_african", "z-score": 10.515924305539883, "proportion of region in country": 0.693069306930693, "mean": 0.010933371959431719, "standard deviation": 0.0648669498896931}
+
+{"country": "finland-vatican_city-supranational", "region": "global-european", "z-score": 10.262032573158198, "proportion of region in country": 0.4732142857142857, "mean": 0.03188453296755321, "standard deviation": 0.04300607599912449}
+
+{"country": "supranational-congo_democratic_republic", "region": "global-sub_saharan_african", "z-score": 9.773444973394751, "proportion of region in country": 0.23529411764705882, "mean": 0.012806094589782026, "standard deviation": 0.02276454450431073}
+
+{"country": "south_africa-finland-supranational", "region": "global-european-sub_saharan_african", "z-score": 9.75578618273263, "proportion of region in country": 0.24166666666666667, "mean": 0.007530956424552541, "standard deviation": 0.023999676279962495}
+
+{"country": "finland-kenya-supranational", "region": "global-european-sub_saharan_african", "z-score": 9.650108428813278, "proportion of region in country": 0.2391304347826087, "mean": 0.007530956424552541, "standard deviation": 0.023999676279962495}
+
+{"country": "egypt-sudan", "region": "middle_eastern-sub_saharan_african", "z-score": 9.10835892266513, "proportion of region in country": 0.7238095238095238, "mean": 0.02062929024182141, "standard deviation": 0.07720163857595876}
+
+{"country": "south_africa-finland-russia", "region": "european-russian_sphere-sub_saharan_african", "z-score": 9.093531812324535, "proportion of region in country": 0.5384615384615384, "mean": 0.010843833627326964, "standard deviation": 0.05802120845050841}
+
+{"country": "qatar-finland-supranational", "region": "global-european-middle_eastern", "z-score": 9.069758851974818, "proportion of region in country": 0.30687830687830686, "mean": 0.016505838382298504, "standard deviation": 0.03201545633517959}
+
+{"country": "russia", "region": "russian_sphere", "z-score": 8.830410064770277, "proportion of region in country": 0.9630678518783222, "mean": 0.0379020359014243, "standard deviation": 0.10477042506416899}
+
+{"country": "supranational-switzerland-united_states", "region": "global-european-north_american", "z-score": 8.648171532099616, "proportion of region in country": 0.39226519337016574, "mean": 0.031926165127522436, "standard deviation": 0.041666498739665915}
+
+{"country": "finland-united_arab_emirates-supranational", "region": "global-european-middle_eastern", "z-score": 8.408702487747222, "proportion of region in country": 0.2857142857142857, "mean": 0.016505838382298504, "standard deviation": 0.03201545633517959}
+
+{"country": "south_africa-finland-australia", "region": "european-oceanian-sub_saharan_african", "z-score": 8.268167440342035, "proportion of region in country": 0.8428571428571429, "mean": 0.01787082873356487, "standard deviation": 0.09977861721792251}
+
+{"country": "mexico-canada-united_states-china", "region": "global-north_american", "z-score": 8.229441916646659, "proportion of region in country": 0.1523809523809524, "mean": 0.011361398205321002, "standard deviation": 0.01713598025284978}
+
+{"country": "brazil-supranational", "region": "global-latin_american", "z-score": 8.15934739182048, "proportion of region in country": 0.1424731182795699, "mean": 0.009645722917716594, "standard deviation": 0.016279169029499725}
+
+{"country": "finland-united_arab_emirates-china", "region": "east_asian-european-middle_eastern", "z-score": 8.063832645032521, "proportion of region in country": 0.7829457364341085, "mean": 0.01961830044212659, "standard deviation": 0.09466062474178535}
+
+{"country": "supranational-canada", "region": "global-north_american", "z-score": 8.002077981895626, "proportion of region in country": 0.1484848484848485, "mean": 0.011361398205321002, "standard deviation": 0.01713598025284978}
+
+{"country": "brazil-australia-finland", "region": "european-oceanian-latin_american", "z-score": 7.8097381829125325, "proportion of region in country": 0.6727272727272727, "mean": 0.015371364150529464, "standard deviation": 0.08417131191606626}
+
+{"country": "somalia-finland-afghanistan-iraq", "region": "european-middle_eastern-sub_saharan_african", "z-score": 7.77794106183406, "proportion of region in country": 0.2748091603053435, "mean": 0.009021952920978845, "standard deviation": 0.034171923555524}
+
+{"country": "japan-supranational-china", "region": "east_asian-european-global", "z-score": 7.466540997593954, "proportion of region in country": 0.25688073394495414, "mean": 0.025212483958107927, "standard deviation": 0.031027519980336257}
+
+{"country": "finland-greenland-united_states", "region": "global-european-north_american", "z-score": 7.160406399740318, "proportion of region in country": 0.3302752293577982, "mean": 0.031926165127522436, "standard deviation": 0.041666498739665915}
+
+{"country": "canada", "region": "north_american", "z-score": 7.074159563584549, "proportion of region in country": 0.9722947368421052, "mean": 0.03549423436239621, "standard deviation": 0.13242569581014974}
+
+{"country": "india-indonesia-china", "region": "east_asian-southeast_asian-south_asian", "z-score": 7.01013748715684, "proportion of region in country": 0.965625, "mean": 0.027996531790948066, "standard deviation": 0.1337532209499266}
+
+{"country": "brazil-finland-supranational", "region": "global-european-latin_american", "z-score": 6.985945353725635, "proportion of region in country": 0.1669902912621359, "mean": 0.012471187662068355, "standard deviation": 0.022118567463122487}
+
+{"country": "egypt-finland-supranational", "region": "global-european-middle_eastern", "z-score": 6.936425940514443, "proportion of region in country": 0.23857868020304568, "mean": 0.016505838382298504, "standard deviation": 0.03201545633517959}
+
+{"country": "united_arab_emirates-finland-india", "region": "european-south_asian-middle_eastern", "z-score": 6.832925732931802, "proportion of region in country": 0.7734375, "mean": 0.02803695380094762, "standard deviation": 0.1090895138237107}
+
+{"country": "united_kingdom-indonesia-united_states", "region": "global", "z-score": 6.809293515111407, "proportion of region in country": 0.4861111111111111, "mean": 0.036142306571946364, "standard deviation": 0.0660815697752754}
+
+{"country": "supranational-canada-united_kingdom-united_states", "region": "global-european-north_american", "z-score": 6.703186807546848, "proportion of region in country": 0.3112244897959184, "mean": 0.031926165127522436, "standard deviation": 0.041666498739665915}
+
+{"country": "finland-turkey-thailand", "region": "european-middle_eastern-southeast_asian", "z-score": 6.6870726658024235, "proportion of region in country": 0.5608108108108109, "mean": 0.01752013460033184, "standard deviation": 0.08124491886993516}
+
+{"country": "iran-finland-afghanistan", "region": "european-middle_eastern-central_asian", "z-score": 6.673065792071327, "proportion of region in country": 0.24727272727272728, "mean": 0.00952253641380406, "standard deviation": 0.03562833010599245}
+
+{"country": "finland-australia-spain-united_kingdom", "region": "global-european", "z-score": 6.611967650281598, "proportion of region in country": 0.3162393162393162, "mean": 0.03188453296755321, "standard deviation": 0.04300607599912449}
+
+{"country": "south_africa-finland-united_states", "region": "european-north_american-sub_saharan_african", "z-score": 6.6110441778837385, "proportion of region in country": 0.7847533632286996, "mean": 0.02370837514503076, "standard deviation": 0.1151172141050927}
+
+{"country": "canada-united_states", "region": "north_american", "z-score": 6.584768257365763, "proportion of region in country": 0.9074867525926444, "mean": 0.03549423436239621, "standard deviation": 0.13242569581014974}
+
+{"country": "finland-united_states-ghana", "region": "european-north_american-sub_saharan_african", "z-score": 6.575848669772885, "proportion of region in country": 0.7807017543859649, "mean": 0.02370837514503076, "standard deviation": 0.1151172141050927}
+
+{"country": "brazil-colombia-finland", "region": "european-sub_saharan_african-latin_american", "z-score": 6.563929495075267, "proportion of region in country": 0.05, "mean": 0.004121928824651645, "standard deviation": 0.0069894216886042726}
+
+{"country": "finland-india-supranational-china", "region": "global-european", "z-score": 6.546709884879384, "proportion of region in country": 0.31343283582089554, "mean": 0.03188453296755321, "standard deviation": 0.04300607599912449}
+
+{"country": "south_africa-united_kingdom-united_states", "region": "european-north_american-sub_saharan_african", "z-score": 6.540180592352548, "proportion of region in country": 0.776595744680851, "mean": 0.02370837514503076, "standard deviation": 0.1151172141050927}
+
+{"country": "nigeria-united_kingdom-united_states", "region": "european-north_american-sub_saharan_african", "z-score": 6.5294660710721315, "proportion of region in country": 0.7753623188405797, "mean": 0.02370837514503076, "standard deviation": 0.1151172141050927}
+
+{"country": "chile-france", "region": "european-sub_saharan_african-latin_american", "z-score": 6.504808274621563, "proportion of region in country": 0.049586776859504134, "mean": 0.004121928824651645, "standard deviation": 0.0069894216886042726}
+
+{"country": "supranational-germany-united_states-china", "region": "global-european-north_american", "z-score": 6.503507791257311, "proportion of region in country": 0.3029045643153527, "mean": 0.031926165127522436, "standard deviation": 0.041666498739665915}
+
+{"country": "united_kingdom-russia-supranational-ukraine-finland", "region": "global-european-russian_sphere", "z-score": 6.455600644122313, "proportion of region in country": 0.07692307692307693, "mean": 0.01010413579312618, "standard deviation": 0.010350538209142161}
+
+{"country": "brazil-finland-china", "region": "east_asian-european-latin_american", "z-score": 6.451558384895567, "proportion of region in country": 0.7142857142857143, "mean": 0.02761500869597028, "standard deviation": 0.10643485877728118}
+
+{"country": "south_korea-china", "region": "east_asian-global", "z-score": 6.364130571495337, "proportion of region in country": 0.3961089494163424, "mean": 0.033096232866587416, "standard deviation": 0.057040425627920506}
+
+{"country": "myanmar-supranational", "region": "global-southeast_asian", "z-score": 6.305294655778848, "proportion of region in country": 0.297029702970297, "mean": 0.021804492461839044, "standard deviation": 0.04364985706991696}
+

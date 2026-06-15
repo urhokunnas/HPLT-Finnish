@@ -1,0 +1,101 @@
+Top 50 tld + country combinations with the largest z-scores:
+{"tld": "life", "country": "norway", "z-score": 13.737686024907747, "proportion of country in tld": 0.7713372066837815, "mean": 0.01597539696564257, "standard deviation": 0.05498464649349208}
+
+{"tld": "ie", "country": "ireland", "z-score": 13.297177692408477, "proportion of country in tld": 0.424, "mean": 0.008282472106275288, "standard deviation": 0.031263591230420495}
+
+{"tld": "life", "country": "sweden", "z-score": 12.311408959396223, "proportion of country in tld": 0.7679592847813359, "mean": 0.025800672425361548, "standard deviation": 0.06028218336371236}
+
+{"tld": "coffee", "country": "brazil", "z-score": 11.828987484858603, "proportion of country in tld": 0.20687397708674304, "mean": 0.007044156682412402, "standard deviation": 0.01689323119667831}
+
+{"tld": "life", "country": "estonia", "z-score": 11.784628147084069, "proportion of country in tld": 0.7567896230239157, "mean": 0.01672523723371892, "standard deviation": 0.06279912921760834}
+
+{"tld": "th", "country": "thailand", "z-score": 11.760663875928522, "proportion of country in tld": 0.5290322580645161, "mean": 0.009452920323243161, "standard deviation": 0.04417942245630682}
+
+{"tld": "cz", "country": "czech_republic", "z-score": 11.705910029199622, "proportion of country in tld": 0.16370619299087855, "mean": 0.0058734431645812695, "standard deviation": 0.01348316785560404}
+
+{"tld": "hu", "country": "hungary", "z-score": 11.434346363762936, "proportion of country in tld": 0.23224962630792229, "mean": 0.0060023809525018455, "standard deviation": 0.019786635646479103}
+
+{"tld": "travel", "country": "poland", "z-score": 11.39144528397708, "proportion of country in tld": 0.16805671392827357, "mean": 0.006270812803383396, "standard deviation": 0.014202403390591195}
+
+{"tld": "legal", "country": "romania", "z-score": 11.39055228891537, "proportion of country in tld": 0.224, "mean": 0.00515835497116858, "standard deviation": 0.019212557870595573}
+
+{"tld": "is", "country": "iceland", "z-score": 11.136214802656827, "proportion of country in tld": 0.39009600808489137, "mean": 0.006289825684528351, "standard deviation": 0.03446468923253854}
+
+{"tld": "bg", "country": "bulgaria", "z-score": 10.939765449418493, "proportion of country in tld": 0.21374045801526717, "mean": 0.004455393338133875, "standard deviation": 0.019130672009815157}
+
+{"tld": "dk", "country": "denmark", "z-score": 10.772035114137582, "proportion of country in tld": 0.1929376124207138, "mean": 0.010652873621828367, "standard deviation": 0.01692203347533177}
+
+{"tld": "ph", "country": "philippines", "z-score": 10.734368410990772, "proportion of country in tld": 0.18095238095238095, "mean": 0.0048892771081304985, "standard deviation": 0.016401813046027176}
+
+{"tld": "ir", "country": "iran", "z-score": 10.58252611166564, "proportion of country in tld": 0.21287128712871287, "mean": 0.0054482531508095785, "standard deviation": 0.019600521821462897}
+
+{"tld": "coffee", "country": "colombia", "z-score": 10.478132683239537, "proportion of country in tld": 0.1783960720130933, "mean": 0.003966683950658592, "standard deviation": 0.016646991724150045}
+
+{"tld": "nz", "country": "new_zealand", "z-score": 10.456062719350012, "proportion of country in tld": 0.11650485436893204, "mean": 0.004765074793721078, "standard deviation": 0.010686601885853754}
+
+{"tld": "za", "country": "south_africa", "z-score": 10.34585730247181, "proportion of country in tld": 0.10507246376811594, "mean": 0.003574602927885763, "standard deviation": 0.009810483353175626}
+
+{"tld": "ca", "country": "canada", "z-score": 10.273307155700147, "proportion of country in tld": 0.5485037816507727, "mean": 0.021788934030778827, "standard deviation": 0.05127023261713206}
+
+{"tld": "lv", "country": "latvia", "z-score": 10.26527881712888, "proportion of country in tld": 0.3985863552550707, "mean": 0.009994271292296384, "standard deviation": 0.03785499555203124}
+
+{"tld": "br", "country": "israel", "z-score": 10.226845802101272, "proportion of country in tld": 0.29931201942533386, "mean": 0.009376569091317654, "standard deviation": 0.02835042748707957}
+
+{"tld": "sg", "country": "singapore", "z-score": 10.191993283380848, "proportion of country in tld": 0.1795275590551181, "mean": 0.005296712306418708, "standard deviation": 0.017094874565194398}
+
+{"tld": "kz", "country": "kazakhstan", "z-score": 10.163217613138313, "proportion of country in tld": 0.33962264150943394, "mean": 0.0048540098003545295, "standard deviation": 0.032939236809838}
+
+{"tld": "vn", "country": "vietnam", "z-score": 10.159969301835806, "proportion of country in tld": 0.12673267326732673, "mean": 0.004166360480800116, "standard deviation": 0.012063649913231538}
+
+{"tld": "homes", "country": "cyprus", "z-score": 9.973524351253454, "proportion of country in tld": 0.09742120343839542, "mean": 0.0031844706417393474, "standard deviation": 0.009448689297561354}
+
+{"tld": "si", "country": "slovenia", "z-score": 9.937289737075359, "proportion of country in tld": 0.12845303867403315, "mean": 0.003495289795163465, "standard deviation": 0.012574630727799024}
+
+{"tld": "tw", "country": "taiwan", "z-score": 9.881746320309706, "proportion of country in tld": 0.12403288201160542, "mean": 0.0040036129549232925, "standard deviation": 0.01214656450044553}
+
+{"tld": "my", "country": "malaysia", "z-score": 9.792562575249342, "proportion of country in tld": 0.24358974358974358, "mean": 0.006016851516398357, "standard deviation": 0.0242605436776896}
+
+{"tld": "lt", "country": "lithuania", "z-score": 9.791487864785301, "proportion of country in tld": 0.19516728624535315, "mean": 0.006604057389569753, "standard deviation": 0.019257872905500253}
+
+{"tld": "homes", "country": "georgia", "z-score": 9.70163080021506, "proportion of country in tld": 0.07593123209169055, "mean": 0.0021481373236573163, "standard deviation": 0.007605225996272467}
+
+{"tld": "homes", "country": "united_arab_emirates", "z-score": 9.677212532491625, "proportion of country in tld": 0.2191977077363897, "mean": 0.005720546945377977, "standard deviation": 0.022059778068762432}
+
+{"tld": "lu", "country": "luxembourg", "z-score": 9.5918830418853, "proportion of country in tld": 0.15434782608695652, "mean": 0.003498884046392519, "standard deviation": 0.01572672867067345}
+
+{"tld": "ke", "country": "kenya", "z-score": 9.52745157237052, "proportion of country in tld": 0.09826589595375723, "mean": 0.003280188572994471, "standard deviation": 0.009969686716248448}
+
+{"tld": "int", "country": "supranational", "z-score": 9.514695619183632, "proportion of country in tld": 0.590311986863711, "mean": 0.031856990995260015, "standard deviation": 0.05869394232039205}
+
+{"tld": "ie", "country": "hong_kong", "z-score": 9.474563809212302, "proportion of country in tld": 0.13741176470588234, "mean": 0.004396343035816065, "standard deviation": 0.014039213239635666}
+
+{"tld": "au", "country": "australia", "z-score": 9.433480091173044, "proportion of country in tld": 0.2463517190205293, "mean": 0.014244519708275324, "standard deviation": 0.024604620677520474}
+
+{"tld": "gr", "country": "greece", "z-score": 9.426736318698696, "proportion of country in tld": 0.1206871451448537, "mean": 0.008250132342947296, "standard deviation": 0.011927459196973451}
+
+{"tld": "coffee", "country": "peru", "z-score": 9.269692812104807, "proportion of country in tld": 0.13911620294599017, "mean": 0.003698961193361939, "standard deviation": 0.014608600791581133}
+
+{"tld": "va", "country": "vatican_city", "z-score": 9.232053310113091, "proportion of country in tld": 0.44642857142857145, "mean": 0.006540996904512589, "standard deviation": 0.0476478590133564}
+
+{"tld": "ug", "country": "uganda", "z-score": 9.208814694634214, "proportion of country in tld": 0.24548736462093862, "mean": 0.004218094613435556, "standard deviation": 0.02619981810993392}
+
+{"tld": "coffee", "country": "ethiopia", "z-score": 8.985540969773288, "proportion of country in tld": 0.14893617021276595, "mean": 0.0036560794507741116, "standard deviation": 0.016168207484747284}
+
+{"tld": "cl", "country": "chile", "z-score": 8.98528039796295, "proportion of country in tld": 0.06666666666666667, "mean": 0.0027715274021197227, "standard deviation": 0.007111090186905307}
+
+{"tld": "voyage", "country": "belgium", "z-score": 8.974387673853222, "proportion of country in tld": 0.15, "mean": 0.007936007998268331, "standard deviation": 0.01582993705694635}
+
+{"tld": "international", "country": "austria", "z-score": 8.89233378473654, "proportion of country in tld": 0.05429864253393665, "mean": 0.00352514453936969, "standard deviation": 0.005709805684725686}
+
+{"tld": "hosting", "country": "moldova", "z-score": 8.873937931782883, "proportion of country in tld": 0.16541353383458646, "mean": 0.003497095374493278, "standard deviation": 0.01824628926918381}
+
+{"tld": "kr", "country": "south_korea", "z-score": 8.83521785195362, "proportion of country in tld": 0.1922222222222222, "mean": 0.008853472173585696, "standard deviation": 0.020754298662606318}
+
+{"tld": "th", "country": "myanmar", "z-score": 8.686590275247724, "proportion of country in tld": 0.08387096774193549, "mean": 0.002593861254243095, "standard deviation": 0.009356617949310904}
+
+{"tld": "ca", "country": "france", "z-score": 8.653315778584874, "proportion of country in tld": 0.31294530308012714, "mean": 0.02809155923380191, "standard deviation": 0.03291845012189177}
+
+{"tld": "th", "country": "cambodia", "z-score": 8.560053666949315, "proportion of country in tld": 0.09032258064516129, "mean": 0.002938494236591095, "standard deviation": 0.010208357308081303}
+
+{"tld": "bz", "country": "uruguay", "z-score": 8.464547110266745, "proportion of country in tld": 0.05844155844155844, "mean": 0.002067049524869164, "standard deviation": 0.006660073856557783}
+

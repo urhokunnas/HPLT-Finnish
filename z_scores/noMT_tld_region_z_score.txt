@@ -1,0 +1,101 @@
+Top 50 tld + region combinations with the largest z-scores:
+{"tld": "coffee", "region": "latin_american", "z-score": 11.870233572675076, "proportion of region in tld": 0.45368248772504094, "mean": 0.01645987692810691, "standard deviation": 0.036833530538388684}
+
+{"tld": "kz", "region": "central_asian", "z-score": 10.411601163993243, "proportion of region in tld": 0.3692722371967655, "mean": 0.005129068422699598, "standard deviation": 0.03497475201349368}
+
+{"tld": "ug", "region": "sub_saharan_african", "z-score": 9.7144764332097, "proportion of region in tld": 0.2815884476534296, "mean": 0.011064145556207675, "standard deviation": 0.027847543195679943}
+
+{"tld": "au", "region": "oceanian", "z-score": 9.66935489157252, "proportion of region in tld": 0.2310165718525847, "mean": 0.01158059071525195, "standard deviation": 0.022693962895972065}
+
+{"tld": "th", "region": "southeast_asian", "z-score": 9.210746620735152, "proportion of region in tld": 0.5419354838709678, "mean": 0.019432233820112145, "standard deviation": 0.05672756743460958}
+
+{"tld": "consulting", "region": "south_asian", "z-score": 8.971245804721061, "proportion of region in tld": 0.1145374449339207, "mean": 0.009166222390873087, "standard deviation": 0.011745439244078752}
+
+{"tld": "homes", "region": "middle_eastern", "z-score": 8.43604892297098, "proportion of region in tld": 0.39255014326647564, "mean": 0.02232596664358571, "standard deviation": 0.043885968419977536}
+
+{"tld": "asia", "region": "east_asian", "z-score": 7.127174952980479, "proportion of region in tld": 0.4414715719063545, "mean": 0.03776989873489205, "standard deviation": 0.05664259343074501}
+
+{"tld": "gov", "region": "north_american", "z-score": 6.932149459915298, "proportion of region in tld": 0.9467084639498433, "mean": 0.0977712571973996, "standard deviation": 0.12246377716772665}
+
+{"tld": "sx", "region": "russian_sphere", "z-score": 6.807304559775526, "proportion of region in tld": 0.21098265895953758, "mean": 0.01844622153287329, "standard deviation": 0.028283799518000894}
+
+{"tld": "canon", "region": "culturally_neutral", "z-score": 6.714953937309076, "proportion of region in tld": 0.7554060547813551, "mean": 0.07310258788253636, "standard deviation": 0.10160955283816026}
+
+{"tld": "br", "region": "middle_eastern", "z-score": 6.680354599984842, "proportion of region in tld": 0.31549979765277214, "mean": 0.02232596664358571, "standard deviation": 0.043885968419977536}
+
+{"tld": "nz", "region": "oceanian", "z-score": 5.808152585843641, "proportion of region in tld": 0.14339058999253174, "mean": 0.01158059071525195, "standard deviation": 0.022693962895972065}
+
+{"tld": "th", "region": "indeterminate", "z-score": 5.474765936528627, "proportion of region in tld": 0.0064516129032258064, "mean": 0.0004725974738463792, "standard deviation": 0.001092104301571389}
+
+{"tld": "ru", "region": "russian_sphere", "z-score": 5.4193438329435315, "proportion of region in tld": 0.17172585602296267, "mean": 0.01844622153287329, "standard deviation": 0.028283799518000894}
+
+{"tld": "asia", "region": "southeast_asian", "z-score": 5.376265820855225, "proportion of region in tld": 0.32441471571906355, "mean": 0.019432233820112145, "standard deviation": 0.05672756743460958}
+
+{"tld": "my", "region": "southeast_asian", "z-score": 5.307482769109868, "proportion of region in tld": 0.32051282051282054, "mean": 0.019432233820112145, "standard deviation": 0.05672756743460958}
+
+{"tld": "md", "region": "east_asian", "z-score": 5.171704629672318, "proportion of region in tld": 0.33070866141732286, "mean": 0.03776989873489205, "standard deviation": 0.05664259343074501}
+
+{"tld": "za", "region": "sub_saharan_african", "z-score": 4.741954992039058, "proportion of region in tld": 0.1431159420289855, "mean": 0.011064145556207675, "standard deviation": 0.027847543195679943}
+
+{"tld": "ae", "region": "oceanian", "z-score": 4.706773159719367, "proportion of region in tld": 0.11839592616168046, "mean": 0.01158059071525195, "standard deviation": 0.022693962895972065}
+
+{"tld": "hosting", "region": "russian_sphere", "z-score": 4.664497718306398, "proportion of region in tld": 0.15037593984962405, "mean": 0.01844622153287329, "standard deviation": 0.028283799518000894}
+
+{"tld": "coffee", "region": "sub_saharan_african", "z-score": 4.586570680582369, "proportion of region in tld": 0.13878887070376433, "mean": 0.011064145556207675, "standard deviation": 0.027847543195679943}
+
+{"tld": "gratis", "region": "global", "z-score": 4.575657243383955, "proportion of region in tld": 0.853448275862069, "mean": 0.13732154084809678, "standard deviation": 0.15650794998891926}
+
+{"tld": "edu", "region": "north_american", "z-score": 4.554220337542569, "proportion of region in tld": 0.6554982817869416, "mean": 0.0977712571973996, "standard deviation": 0.12246377716772665}
+
+{"tld": "ir", "region": "middle_eastern", "z-score": 4.454631459052856, "proportion of region in tld": 0.21782178217821782, "mean": 0.02232596664358571, "standard deviation": 0.043885968419977536}
+
+{"tld": "cam", "region": "global", "z-score": 4.416707827124898, "proportion of region in tld": 0.8285714285714286, "mean": 0.13732154084809678, "standard deviation": 0.15650794998891926}
+
+{"tld": "ing", "region": "culturally_neutral", "z-score": 4.101941110599223, "proportion of region in tld": 0.4898989898989899, "mean": 0.07310258788253636, "standard deviation": 0.10160955283816026}
+
+{"tld": "su", "region": "culturally_neutral", "z-score": 4.081122253252993, "proportion of region in tld": 0.48778359511343805, "mean": 0.07310258788253636, "standard deviation": 0.10160955283816026}
+
+{"tld": "tips", "region": "culturally_neutral", "z-score": 4.078943264638957, "proportion of region in tld": 0.48756218905472637, "mean": 0.07310258788253636, "standard deviation": 0.10160955283816026}
+
+{"tld": "ve", "region": "east_asian", "z-score": 4.058904351245411, "proportion of region in tld": 0.2676767676767677, "mean": 0.03776989873489205, "standard deviation": 0.05664259343074501}
+
+{"tld": "coffee", "region": "south_asian", "z-score": 3.9015649692431382, "proportion of region in tld": 0.05499181669394435, "mean": 0.009166222390873087, "standard deviation": 0.011745439244078752}
+
+{"tld": "consulting", "region": "latin_american", "z-score": 3.8587240854852567, "proportion of region in tld": 0.15859030837004406, "mean": 0.01645987692810691, "standard deviation": 0.036833530538388684}
+
+{"tld": "ag", "region": "global", "z-score": 3.8465455082985947, "proportion of region in tld": 0.7393364928909952, "mean": 0.13732154084809678, "standard deviation": 0.15650794998891926}
+
+{"tld": "ca", "region": "north_american", "z-score": 3.8228528692749193, "proportion of region in tld": 0.5659322591252878, "mean": 0.0977712571973996, "standard deviation": 0.12246377716772665}
+
+{"tld": "dating", "region": "global", "z-score": 3.696273279171019, "proportion of region in tld": 0.7158176943699732, "mean": 0.13732154084809678, "standard deviation": 0.15650794998891926}
+
+{"tld": "trade", "region": "global", "z-score": 3.632791894171087, "proportion of region in tld": 0.7058823529411765, "mean": 0.13732154084809678, "standard deviation": 0.15650794998891926}
+
+{"tld": "expert", "region": "culturally_neutral", "z-score": 3.5810826036503824, "proportion of region in tld": 0.4369747899159664, "mean": 0.07310258788253636, "standard deviation": 0.10160955283816026}
+
+{"tld": "st", "region": "east_asian", "z-score": 3.5188943703070947, "proportion of region in tld": 0.23708920187793428, "mean": 0.03776989873489205, "standard deviation": 0.05664259343074501}
+
+{"tld": "jp", "region": "east_asian", "z-score": 3.5088760658275633, "proportion of region in tld": 0.23652173913043478, "mean": 0.03776989873489205, "standard deviation": 0.05664259343074501}
+
+{"tld": "is", "region": "middle_eastern", "z-score": 3.4751382843190117, "proportion of region in tld": 0.17483577564426478, "mean": 0.02232596664358571, "standard deviation": 0.043885968419977536}
+
+{"tld": "ke", "region": "sub_saharan_african", "z-score": 3.33896949418444, "proportion of region in tld": 0.10404624277456648, "mean": 0.011064145556207675, "standard deviation": 0.027847543195679943}
+
+{"tld": "sg", "region": "southeast_asian", "z-score": 3.2385907026750846, "proportion of region in tld": 0.2031496062992126, "mean": 0.019432233820112145, "standard deviation": 0.05672756743460958}
+
+{"tld": "pt", "region": "north_american", "z-score": 3.2347204205159628, "proportion of region in tld": 0.4939073379753615, "mean": 0.0977712571973996, "standard deviation": 0.12246377716772665}
+
+{"tld": "ve", "region": "north_american", "z-score": 3.201989533317524, "proportion of region in tld": 0.4898989898989899, "mean": 0.0977712571973996, "standard deviation": 0.12246377716772665}
+
+{"tld": "community", "region": "global", "z-score": 3.051240042761905, "proportion of region in tld": 0.6148648648648649, "mean": 0.13732154084809678, "standard deviation": 0.15650794998891926}
+
+{"tld": "cyou", "region": "culturally_neutral", "z-score": 3.0460335581104943, "proportion of region in tld": 0.3826086956521739, "mean": 0.07310258788253636, "standard deviation": 0.10160955283816026}
+
+{"tld": "education", "region": "culturally_neutral", "z-score": 3.009356809021066, "proportion of region in tld": 0.37888198757763975, "mean": 0.07310258788253636, "standard deviation": 0.10160955283816026}
+
+{"tld": "hosting", "region": "culturally_neutral", "z-score": 2.9804014807925703, "proportion of region in tld": 0.37593984962406013, "mean": 0.07310258788253636, "standard deviation": 0.10160955283816026}
+
+{"tld": "agency", "region": "russian_sphere", "z-score": 2.9314831535208357, "proportion of region in tld": 0.10135970333745364, "mean": 0.01844622153287329, "standard deviation": 0.028283799518000894}
+
+{"tld": "md", "region": "north_american", "z-score": 2.9308393427784556, "proportion of region in tld": 0.4566929133858268, "mean": 0.0977712571973996, "standard deviation": 0.12246377716772665}
+

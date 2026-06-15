@@ -1,0 +1,101 @@
+Top 50 country + region combinations with the largest z-scores (countries with at least 1000 texts):
+{"country": "antarctica", "region": "global", "z-score": 9.409633324021012, "proportion of region in country": 0.9336065573770492, "mean": 0.13877575746733817, "standard deviation": 0.0844699014870918}
+
+{"country": "none", "region": "culturally_neutral", "z-score": 7.4172771600468455, "proportion of region in country": 0.6128369130155679, "mean": 0.0109275416639778, "standard deviation": 0.0811496400045254}
+
+{"country": "kyrgyzstan", "region": "central_asian", "z-score": 6.663589438479424, "proportion of region in country": 0.7592315369261478, "mean": 0.027133270886871945, "standard deviation": 0.10986545206577651}
+
+{"country": "tajikistan", "region": "central_asian", "z-score": 6.36771661848617, "proportion of region in country": 0.7267253358036128, "mean": 0.027133270886871945, "standard deviation": 0.10986545206577651}
+
+{"country": "uzbekistan", "region": "central_asian", "z-score": 6.040527681882431, "proportion of region in country": 0.6907785753727222, "mean": 0.027133270886871945, "standard deviation": 0.10986545206577651}
+
+{"country": "turkmenistan", "region": "central_asian", "z-score": 6.001416368442852, "proportion of region in country": 0.6864815932407966, "mean": 0.027133270886871945, "standard deviation": 0.10986545206577651}
+
+{"country": "canada", "region": "north_american", "z-score": 5.7773702634936175, "proportion of region in country": 0.8723353680141007, "mean": 0.163802435881962, "standard deviation": 0.122639349707125}
+
+{"country": "vanuatu", "region": "oceanian", "z-score": 5.687199663449162, "proportion of region in country": 0.7459727385377943, "mean": 0.04063428937259072, "standard deviation": 0.12402210066552002}
+
+{"country": "fiji", "region": "oceanian", "z-score": 5.654691558627551, "proportion of region in country": 0.7419410150891632, "mean": 0.04063428937259072, "standard deviation": 0.12402210066552002}
+
+{"country": "belarus", "region": "russian_sphere", "z-score": 5.651427241111612, "proportion of region in country": 0.7351878841645016, "mean": 0.06958834295009703, "standard deviation": 0.11777547738250346}
+
+{"country": "nepal", "region": "south_asian", "z-score": 5.609961400241749, "proportion of region in country": 0.7785814747840064, "mean": 0.0591522240949756, "standard deviation": 0.12824139051260292}
+
+{"country": "united_states", "region": "north_american", "z-score": 5.604278618659738, "proportion of region in country": 0.8511075212519371, "mean": 0.163802435881962, "standard deviation": 0.122639349707125}
+
+{"country": "tonga", "region": "oceanian", "z-score": 5.443538947188923, "proportion of region in country": 0.7157534246575342, "mean": 0.04063428937259072, "standard deviation": 0.12402210066552002}
+
+{"country": "russia", "region": "russian_sphere", "z-score": 5.441864741180291, "proportion of region in country": 0.7105065606936194, "mean": 0.06958834295009703, "standard deviation": 0.11777547738250346}
+
+{"country": "macau", "region": "east_asian", "z-score": 5.275786011797042, "proportion of region in country": 0.8387183629509962, "mean": 0.0760063158763432, "standard deviation": 0.1445684198277135}
+
+{"country": "north_korea", "region": "east_asian", "z-score": 5.0606153238979825, "proportion of region in country": 0.8076114766081871, "mean": 0.0760063158763432, "standard deviation": 0.1445684198277135}
+
+{"country": "india", "region": "south_asian", "z-score": 5.0276079544456405, "proportion of region in country": 0.7038996591253076, "mean": 0.0591522240949756, "standard deviation": 0.12824139051260292}
+
+{"country": "ukraine", "region": "russian_sphere", "z-score": 4.964823913658118, "proportion of region in country": 0.6543228495012511, "mean": 0.06958834295009703, "standard deviation": 0.11777547738250346}
+
+{"country": "australia", "region": "oceanian", "z-score": 4.956056962122934, "proportion of region in country": 0.6552948848330525, "mean": 0.04063428937259072, "standard deviation": 0.12402210066552002}
+
+{"country": "taiwan", "region": "east_asian", "z-score": 4.950786411295372, "proportion of region in country": 0.7917336842618317, "mean": 0.0760063158763432, "standard deviation": 0.1445684198277135}
+
+{"country": "papua_new_guinea", "region": "oceanian", "z-score": 4.946338504510834, "proportion of region in country": 0.6540895813047711, "mean": 0.04063428937259072, "standard deviation": 0.12402210066552002}
+
+{"country": "new_zealand", "region": "oceanian", "z-score": 4.85564616318047, "proportion of region in country": 0.6428417266187051, "mean": 0.04063428937259072, "standard deviation": 0.12402210066552002}
+
+{"country": "bangladesh", "region": "south_asian", "z-score": 4.849474404898277, "proportion of region in country": 0.6810555650344082, "mean": 0.0591522240949756, "standard deviation": 0.12824139051260292}
+
+{"country": "bhutan", "region": "south_asian", "z-score": 4.844187873888526, "proportion of region in country": 0.6803776129467296, "mean": 0.0591522240949756, "standard deviation": 0.12824139051260292}
+
+{"country": "maldives", "region": "south_asian", "z-score": 4.813810558078703, "proportion of region in country": 0.6764819837272376, "mean": 0.0591522240949756, "standard deviation": 0.12824139051260292}
+
+{"country": "pakistan", "region": "south_asian", "z-score": 4.769801748747393, "proportion of region in country": 0.6708382328237863, "mean": 0.0591522240949756, "standard deviation": 0.12824139051260292}
+
+{"country": "hong_kong", "region": "east_asian", "z-score": 4.694913538918121, "proportion of region in country": 0.7547425474254743, "mean": 0.0760063158763432, "standard deviation": 0.1445684198277135}
+
+{"country": "china", "region": "east_asian", "z-score": 4.671616051982196, "proportion of region in country": 0.7513744665531908, "mean": 0.0760063158763432, "standard deviation": 0.1445684198277135}
+
+{"country": "cambodia", "region": "southeast_asian", "z-score": 4.640565145736094, "proportion of region in country": 0.8382283278067266, "mean": 0.06931394494319208, "standard deviation": 0.16569412533084224}
+
+{"country": "japan", "region": "east_asian", "z-score": 4.628337159575828, "proportion of region in country": 0.7451177054661087, "mean": 0.0760063158763432, "standard deviation": 0.1445684198277135}
+
+{"country": "laos", "region": "southeast_asian", "z-score": 4.601479896492862, "proportion of region in country": 0.8317521316200313, "mean": 0.06931394494319208, "standard deviation": 0.16569412533084224}
+
+{"country": "none", "region": "indeterminate", "z-score": 4.572915635076646, "proportion of region in country": 0.0024184474390108817, "mean": 0.000128970621756541, "standard deviation": 0.0005006601914307932}
+
+{"country": "thailand", "region": "southeast_asian", "z-score": 4.567766883137498, "proportion of region in country": 0.8261660833598473, "mean": 0.06931394494319208, "standard deviation": 0.16569412533084224}
+
+{"country": "sri_lanka", "region": "south_asian", "z-score": 4.445625522199281, "proportion of region in country": 0.6292654227601278, "mean": 0.0591522240949756, "standard deviation": 0.12824139051260292}
+
+{"country": "bermuda", "region": "north_american", "z-score": 4.309905243252203, "proportion of region in country": 0.6923664122137405, "mean": 0.163802435881962, "standard deviation": 0.122639349707125}
+
+{"country": "brunei", "region": "southeast_asian", "z-score": 4.194396760456965, "proportion of region in country": 0.7643008474576272, "mean": 0.06931394494319208, "standard deviation": 0.16569412533084224}
+
+{"country": "south_korea", "region": "east_asian", "z-score": 4.167759687394817, "proportion of region in country": 0.6785327481046571, "mean": 0.0760063158763432, "standard deviation": 0.1445684198277135}
+
+{"country": "indonesia", "region": "southeast_asian", "z-score": 4.085654168681022, "proportion of region in country": 0.7462828388271034, "mean": 0.06931394494319208, "standard deviation": 0.16569412533084224}
+
+{"country": "kazakhstan", "region": "central_asian", "z-score": 4.043036087747969, "proportion of region in country": 0.47132325838555106, "mean": 0.027133270886871945, "standard deviation": 0.10986545206577651}
+
+{"country": "myanmar", "region": "southeast_asian", "z-score": 3.9048563588700724, "proportion of region in country": 0.7163257038687462, "mean": 0.06931394494319208, "standard deviation": 0.16569412533084224}
+
+{"country": "vietnam", "region": "southeast_asian", "z-score": 3.858490643881027, "proportion of region in country": 0.7086431772782972, "mean": 0.06931394494319208, "standard deviation": 0.16569412533084224}
+
+{"country": "malaysia", "region": "southeast_asian", "z-score": 3.82589475129955, "proportion of region in country": 0.7032422293676313, "mean": 0.06931394494319208, "standard deviation": 0.16569412533084224}
+
+{"country": "philippines", "region": "southeast_asian", "z-score": 3.814001197912055, "proportion of region in country": 0.7012715374420145, "mean": 0.06931394494319208, "standard deviation": 0.16569412533084224}
+
+{"country": "mongolia", "region": "east_asian", "z-score": 3.700773089520601, "proportion of region in country": 0.6110212335692619, "mean": 0.0760063158763432, "standard deviation": 0.1445684198277135}
+
+{"country": "palestine", "region": "middle_eastern", "z-score": 3.4345518539674877, "proportion of region in country": 0.922170692877414, "mean": 0.14597642527917215, "standard deviation": 0.2259957923481651}
+
+{"country": "georgia", "region": "russian_sphere", "z-score": 3.4014364803443433, "proportion of region in country": 0.4701941482089144, "mean": 0.06958834295009703, "standard deviation": 0.11777547738250346}
+
+{"country": "timor_leste", "region": "southeast_asian", "z-score": 3.374655741182831, "proportion of region in country": 0.6284745762711864, "mean": 0.06931394494319208, "standard deviation": 0.16569412533084224}
+
+{"country": "lebanon", "region": "middle_eastern", "z-score": 3.3207222906055947, "proportion of region in country": 0.8964456905127973, "mean": 0.14597642527917215, "standard deviation": 0.2259957923481651}
+
+{"country": "yemen", "region": "middle_eastern", "z-score": 3.29707979645247, "proportion of region in country": 0.8911025863135751, "mean": 0.14597642527917215, "standard deviation": 0.2259957923481651}
+
+{"country": "singapore", "region": "southeast_asian", "z-score": 3.2872795174568616, "proportion of region in country": 0.6139968493061999, "mean": 0.06931394494319208, "standard deviation": 0.16569412533084224}
+

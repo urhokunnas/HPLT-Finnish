@@ -1,0 +1,101 @@
+Top 50 country + register combinations with the largest z-scores:
+{"country": "none", "register": "HI", "z-score": 13.164971287958963, "proportion of register in country": 0.11678460031702453, "mean": 0.004740104351021206, "standard deviation": 0.008510804430578762}
+
+{"country": "none", "register": "OP-av", "z-score": 12.049261838781256, "proportion of register in country": 0.028013404709741622, "mean": 0.0008143250393873353, "standard deviation": 0.0022573233144301385}
+
+{"country": "none", "register": "HI-OP-av", "z-score": 10.41260978218724, "proportion of register in country": 0.03250681445411601, "mean": 0.001199785170008658, "standard deviation": 0.0030066457822767946}
+
+{"country": "curacao", "register": "IP-OP-ds-rv", "z-score": 9.944819455875347, "proportion of register in country": 0.12572459100863068, "mean": 0.004457569279879395, "standard deviation": 0.012193989269167411}
+
+{"country": "guam", "register": "IN-fi", "z-score": 9.91359627508098, "proportion of register in country": 0.006622516556291391, "mean": 0.0003957554556241974, "standard deviation": 0.0006281031552917793}
+
+{"country": "cook_islands", "register": "IN-IP-NA", "z-score": 9.860241649585765, "proportion of register in country": 0.002386634844868735, "mean": 0.00017247968734909045, "standard deviation": 0.00022455384322276348}
+
+{"country": "isle_of_man", "register": "IP-OP", "z-score": 9.746377305492949, "proportion of register in country": 0.014150943396226415, "mean": 0.0010024686387237788, "standard deviation": 0.0013490627692088531}
+
+{"country": "none", "register": "IN-OP-av", "z-score": 9.67193913690035, "proportion of register in country": 0.004482789815881906, "mean": 0.0001668641718530953, "standard deviation": 0.0004462316793912304}
+
+{"country": "guernsey", "register": "IN-lt", "z-score": 9.585594195817466, "proportion of register in country": 0.10679611650485436, "mean": 0.008522530255119965, "standard deviation": 0.010252216424164361}
+
+{"country": "guernsey", "register": "HI-IN-IP-ds", "z-score": 9.578875634556447, "proportion of register in country": 0.0048543689320388345, "mean": 0.0002527286313780225, "standard deviation": 0.0004803946179299041}
+
+{"country": "niue", "register": "IN-IP-ds-lt", "z-score": 9.274524626911646, "proportion of register in country": 0.005494505494505495, "mean": 0.00035433952976822333, "standard deviation": 0.0005542241970895399}
+
+{"country": "micronesia", "register": "HI-IN-IP-dtp", "z-score": 9.235088560712057, "proportion of register in country": 0.010101010101010102, "mean": 0.0002659490443469463, "standard deviation": 0.001064966620732096}
+
+{"country": "equatorial_guinea", "register": "IN-dtp-en", "z-score": 9.214647106676532, "proportion of register in country": 0.03870967741935484, "mean": 0.004470218595463533, "standard deviation": 0.003715764524404075}
+
+{"country": "palestine", "register": "OP-rs", "z-score": 8.94147862569293, "proportion of register in country": 0.19183998181611547, "mean": 0.009785236172501478, "standard deviation": 0.020360697963364583}
+
+{"country": "curacao", "register": "IP-OP-rv", "z-score": 8.845226700736136, "proportion of register in country": 0.01687491948988793, "mean": 0.001479104178395376, "standard deviation": 0.001740578939623023}
+
+{"country": "vatican_city", "register": "OP-ob-rs", "z-score": 8.716115078541046, "proportion of register in country": 0.003344170924291686, "mean": 0.00022462372856309396, "standard deviation": 0.0003579056916548605}
+
+{"country": "anguilla", "register": "ID-IN", "z-score": 8.658887559010488, "proportion of register in country": 0.01, "mean": 0.0004950023807775048, "standard deviation": 0.0010977157925248194}
+
+{"country": "sao_tome_and_principe", "register": "IN-SP", "z-score": 8.638874056032103, "proportion of register in country": 0.0013966480446927375, "mean": 9.393332103584954e-05, "standard deviation": 0.00015079681856772364}
+
+{"country": "isle_of_man", "register": "IN-dtp-lt", "z-score": 8.635135330866818, "proportion of register in country": 0.0047169811320754715, "mean": 0.0001780085544775868, "standard deviation": 0.0005256400048963969}
+
+{"country": "guernsey", "register": "IN-NA-dtp-ne", "z-score": 8.62577913679149, "proportion of register in country": 0.0048543689320388345, "mean": 0.00045012410806875413, "standard deviation": 0.0005105909569588535}
+
+{"country": "cook_islands", "register": "NA-SP-nb", "z-score": 8.617680496890332, "proportion of register in country": 0.002386634844868735, "mean": 9.475666672536478e-05, "standard deviation": 0.00026595070204452217}
+
+{"country": "guadeloupe", "register": "IN-NA-en", "z-score": 8.426450646310892, "proportion of register in country": 0.003125, "mean": 0.0002899201156104273, "standard deviation": 0.0003364500669841072}
+
+{"country": "marshall_islands", "register": "HI-IN-IP-ds-dtp", "z-score": 8.160882444964432, "proportion of register in country": 0.0027472527472527475, "mean": 8.909803097583982e-05, "standard deviation": 0.0003257190302890698}
+
+{"country": "gibraltar", "register": "HI-OP", "z-score": 8.059279290809428, "proportion of register in country": 0.012329370321444297, "mean": 0.00043924705403093064, "standard deviation": 0.0014753333193170911}
+
+{"country": "zambia", "register": "IN-ra", "z-score": 7.946544199639619, "proportion of register in country": 0.022278803309993635, "mean": 0.002549038375668087, "standard deviation": 0.00248281069590229}
+
+{"country": "isle_of_man", "register": "IN-IP-ds-dtp", "z-score": 7.6862950213294186, "proportion of register in country": 0.014150943396226415, "mean": 0.0023281774558358923, "standard deviation": 0.0015381618722131306}
+
+{"country": "papua_new_guinea", "register": "NA-OP-nb-rs", "z-score": 7.660863706171418, "proportion of register in country": 0.00418519487313628, "mean": 0.00037449154246857507, "standard deviation": 0.0004974247652517155}
+
+{"country": "israel", "register": "OP-rs", "z-score": 7.635084471152247, "proportion of register in country": 0.1652408850144076, "mean": 0.009785236172501478, "standard deviation": 0.020360697963364583}
+
+{"country": "malta", "register": "IP-OP-rv", "z-score": 7.610171510542161, "proportion of register in country": 0.01472520843656419, "mean": 0.001479104178395376, "standard deviation": 0.001740578939623023}
+
+{"country": "benin", "register": "NA-SP-it", "z-score": 7.572414109033475, "proportion of register in country": 0.011911679256246368, "mean": 0.0020214075980823348, "standard deviation": 0.0013060922865226667}
+
+{"country": "malta", "register": "IP-OP-ds-rv", "z-score": 7.538038317871783, "proportion of register in country": 0.09637632763858069, "mean": 0.004457569279879395, "standard deviation": 0.012193989269167411}
+
+{"country": "montserrat", "register": "HI-NA-nb", "z-score": 7.522053487066223, "proportion of register in country": 0.0045871559633027525, "mean": 0.0004309112094101514, "standard deviation": 0.0005525412390431744}
+
+{"country": "curacao", "register": "IP-OP-ds", "z-score": 7.4861748194885305, "proportion of register in country": 0.024990338786551592, "mean": 0.0013221736176534306, "standard deviation": 0.0031615832837998317}
+
+{"country": "none", "register": "HI-IN-OP-av", "z-score": 7.452047020391738, "proportion of register in country": 0.0032241316241803973, "mean": 0.0001830054802521171, "standard deviation": 0.0004080927207794798}
+
+{"country": "none", "register": "LY-NA", "z-score": 7.4139807863231875, "proportion of register in country": 0.0007780080947454954, "mean": 7.173192210478034e-05, "standard deviation": 9.526274655898836e-05}
+
+{"country": "faroe_islands", "register": "HI-IP", "z-score": 7.412260989879135, "proportion of register in country": 0.004420866489832007, "mean": 0.0004472798778779523, "standard deviation": 0.0005360829330456223}
+
+{"country": "gibraltar", "register": "HI-IP", "z-score": 7.379579579263228, "proportion of register in country": 0.004403346543372964, "mean": 0.0004472798778779523, "standard deviation": 0.0005360829330456223}
+
+{"country": "isle_of_man", "register": "HI-IN-fi", "z-score": 7.300036529248212, "proportion of register in country": 0.0047169811320754715, "mean": 0.00016086041023311874, "standard deviation": 0.0006241230031641446}
+
+{"country": "san_marino", "register": "HI-IN-lt", "z-score": 7.293132468856462, "proportion of register in country": 0.0013717421124828531, "mean": 0.00013591113531309407, "standard deviation": 0.00016945132732019784}
+
+{"country": "guadeloupe", "register": "HI-NA-re", "z-score": 7.290322657940506, "proportion of register in country": 0.003125, "mean": 0.0002729300873653111, "standard deviation": 0.00039121312546136196}
+
+{"country": "palau", "register": "HI-NA", "z-score": 7.225860901427386, "proportion of register in country": 0.002824858757062147, "mean": 0.0002275825837978798, "standard deviation": 0.0003594417618461497}
+
+{"country": "none", "register": "HI-NA-OP-av", "z-score": 7.125438566804844, "proportion of register in country": 0.0008232411235097683, "mean": 6.688797509530769e-05, "standard deviation": 0.00010614829407667196}
+
+{"country": "timor_leste", "register": "IN-NA-SP-it", "z-score": 7.085736897902867, "proportion of register in country": 0.0007331378299120235, "mean": 5.4456608185187184e-05, "standard deviation": 9.578131837321005e-05}
+
+{"country": "saint_vincent_and_the_grenadines", "register": "IN-OP-rv", "z-score": 7.073644655795443, "proportion of register in country": 0.0037313432835820895, "mean": 0.0003933689014716784, "standard deviation": 0.00047188889809097296}
+
+{"country": "martinique", "register": "ID-NA-nb", "z-score": 7.054577356975796, "proportion of register in country": 0.010101010101010102, "mean": 0.0012338244059924305, "standard deviation": 0.0012569407416376985}
+
+{"country": "svalbard_and_jan_mayen", "register": "SP", "z-score": 7.04670301471281, "proportion of register in country": 0.005376344086021506, "mean": 0.0008123327329669293, "standard deviation": 0.000647680389470846}
+
+{"country": "isle_of_man", "register": "IP-OP-ds", "z-score": 7.041640230323739, "proportion of register in country": 0.02358490566037736, "mean": 0.0013221736176534306, "standard deviation": 0.0031615832837998317}
+
+{"country": "french_guiana", "register": "IN-NA-OP", "z-score": 6.987578612573476, "proportion of register in country": 0.0030959752321981426, "mean": 8.70102444534192e-05, "standard deviation": 0.0004306162627394818}
+
+{"country": "micronesia", "register": "IN-IP", "z-score": 6.9844046753090305, "proportion of register in country": 0.020202020202020204, "mean": 0.0042899052184807345, "standard deviation": 0.0022782349710908506}
+
+{"country": "tonga", "register": "IN-NA-dtp-nb", "z-score": 6.954818539307483, "proportion of register in country": 0.004524886877828055, "mean": 0.0005398761959017688, "standard deviation": 0.0005729855724349479}
+
