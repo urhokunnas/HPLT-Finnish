@@ -1,0 +1,101 @@
+Top 50 country + tld combinations with the largest z-scores:
+{"country": "niue", "tld": "ee", "z-score": 11.703160738964717, "proportion of tld in country": 0.24175824175824176, "mean": 0.004622763057381655, "standard deviation": 0.020262515741695054}
+
+{"country": "tuvalu", "tld": "news", "z-score": 10.911808897404702, "proportion of tld in country": 0.008356545961002786, "mean": 0.000557177259245376, "standard deviation": 0.0007147640482974767}
+
+{"country": "equatorial_guinea", "tld": "fun", "z-score": 10.729937074222756, "proportion of tld in country": 0.0064516129032258064, "mean": 0.0003733500152456406, "standard deviation": 0.0005664770301945556}
+
+{"country": "antigua_and_barbuda", "tld": "tv", "z-score": 10.383989612003628, "proportion of tld in country": 0.02744310575635877, "mean": 0.001309496910652343, "standard deviation": 0.0025167213972842038}
+
+{"country": "vatican_city", "tld": "va", "z-score": 10.279877899267223, "proportion of tld in country": 0.025545750116117046, "mean": 0.00039738339649996314, "standard deviation": 0.0024463682318065006}
+
+{"country": "sweden", "tld": "app", "z-score": 10.24084791934054, "proportion of tld in country": 0.008579312529568565, "mean": 0.00046256051995836623, "standard deviation": 0.0007925859336589851}
+
+{"country": "taiwan", "tld": "tw", "z-score": 9.97242610488287, "proportion of tld in country": 0.015750690819772796, "mean": 0.00029666825686625763, "standard deviation": 0.0015496753147501063}
+
+{"country": "tuvalu", "tld": "gq", "z-score": 9.957481953401155, "proportion of tld in country": 0.002785515320334262, "mean": 0.00014565113527339037, "standard deviation": 0.00026511362987298}
+
+{"country": "guam", "tld": "gr", "z-score": 9.807140903535819, "proportion of tld in country": 0.006622516556291391, "mean": 0.0003312557013894796, "standard deviation": 0.0006414979571297574}
+
+{"country": "british_virgin_islands", "tld": "fr", "z-score": 9.471338016102619, "proportion of tld in country": 0.012, "mean": 0.0010073693421787941, "standard deviation": 0.0011606206682870123}
+
+{"country": "lesotho", "tld": "za", "z-score": 9.403615549815054, "proportion of tld in country": 0.014418125643666324, "mean": 0.0003261742848722439, "standard deviation": 0.001498567363174607}
+
+{"country": "costa_rica", "tld": "cc", "z-score": 9.27119418502875, "proportion of tld in country": 0.007077260089308282, "mean": 0.00023336196737674302, "standard deviation": 0.0007381894915957168}
+
+{"country": "guam", "tld": "ws", "z-score": 9.27113497581881, "proportion of tld in country": 0.006622516556291391, "mean": 0.0004470800898414617, "standard deviation": 0.0006660928227834938}
+
+{"country": "sweden", "tld": "se", "z-score": 9.248725327952496, "proportion of tld in country": 0.03636907404281216, "mean": 0.004466336123728154, "standard deviation": 0.0034494199781957093}
+
+{"country": "isle_of_man", "tld": "biz", "z-score": 9.192822760833742, "proportion of tld in country": 0.009433962264150943, "mean": 0.00047092442428804703, "standard deviation": 0.0009750038778132598}
+
+{"country": "dominica", "tld": "net", "z-score": 9.154953666234332, "proportion of tld in country": 0.24339622641509434, "mean": 0.0541637529731527, "standard deviation": 0.020669954250000896}
+
+{"country": "equatorial_guinea", "tld": "io", "z-score": 9.07386102014095, "proportion of tld in country": 0.012903225806451613, "mean": 0.0010269130266130223, "standard deviation": 0.0013088488740875723}
+
+{"country": "reunion", "tld": "dk", "z-score": 9.04329112691703, "proportion of tld in country": 0.014732965009208104, "mean": 0.001110431355007839, "standard deviation": 0.0015063690268306508}
+
+{"country": "latvia", "tld": "lv", "z-score": 9.041433525952542, "proportion of tld in country": 0.00846583640113835, "mean": 0.00025123565626522347, "standard deviation": 0.0009085506984366945}
+
+{"country": "cook_islands", "tld": "no", "z-score": 8.877947419068962, "proportion of tld in country": 0.007159904534606206, "mean": 0.0004190262178401526, "standard deviation": 0.0007592834242617057}
+
+{"country": "guam", "tld": "click", "z-score": 8.861209276433168, "proportion of tld in country": 0.006622516556291391, "mean": 0.0005531898671093575, "standard deviation": 0.0006849321012340508}
+
+{"country": "micronesia", "tld": "estate", "z-score": 8.774657116310912, "proportion of tld in country": 0.005050505050505051, "mean": 0.00016951649416226616, "standard deviation": 0.0005562597480042474}
+
+{"country": "saint_barthelemy", "tld": "in", "z-score": 8.740120903950794, "proportion of tld in country": 0.006711409395973154, "mean": 0.00040386784362980244, "standard deviation": 0.00072167669322425}
+
+{"country": "germany", "tld": "de", "z-score": 8.634176587192368, "proportion of tld in country": 0.017720867361114664, "mean": 0.0017283507022306647, "standard deviation": 0.0018522341415401129}
+
+{"country": "iceland", "tld": "is", "z-score": 8.615381069100806, "proportion of tld in country": 0.02154198175070458, "mean": 0.0006231481621280616, "standard deviation": 0.002428079898125717}
+
+{"country": "palau", "tld": "sk", "z-score": 8.560993630541008, "proportion of tld in country": 0.002824858757062147, "mean": 0.00018165795335314827, "standard deviation": 0.00030874930151559557}
+
+{"country": "reunion", "tld": "space", "z-score": 8.548864940872571, "proportion of tld in country": 0.003683241252302026, "mean": 0.00025694545131645455, "standard deviation": 0.000400789557991994}
+
+{"country": "isle_of_man", "tld": "nu", "z-score": 8.420820179103407, "proportion of tld in country": 0.0047169811320754715, "mean": 0.00030398860316025746, "standard deviation": 0.0005240573287464595}
+
+{"country": "isle_of_man", "tld": "me", "z-score": 8.367820880042144, "proportion of tld in country": 0.0047169811320754715, "mean": 0.0005177550684426304, "standard deviation": 0.0005018303001260815}
+
+{"country": "united_arab_emirates", "tld": "ae", "z-score": 8.24507587350127, "proportion of tld in country": 0.004135507510338769, "mean": 0.0001825480159870522, "standard deviation": 0.000479432761444449}
+
+{"country": "ivory_coast", "tld": "club", "z-score": 8.216357613921252, "proportion of tld in country": 0.004149377593360996, "mean": 0.00024403790092046278, "standard deviation": 0.0004753127694714242}
+
+{"country": "saint_barthelemy", "tld": "es", "z-score": 8.167329245277868, "proportion of tld in country": 0.006711409395973154, "mean": 0.0004922318755416368, "standard deviation": 0.0007614701616231867}
+
+{"country": "isle_of_man", "tld": "online", "z-score": 8.102870871391392, "proportion of tld in country": 0.009433962264150943, "mean": 0.0005518804895062578, "standard deviation": 0.0010961647933949478}
+
+{"country": "aruba", "tld": "info", "z-score": 8.014945485986106, "proportion of tld in country": 0.0529446757882213, "mean": 0.006964706886751536, "standard deviation": 0.005736778744392507}
+
+{"country": "martinique", "tld": "ga", "z-score": 7.990138306554634, "proportion of tld in country": 0.003367003367003367, "mean": 0.0001945832438558983, "standard deviation": 0.00039704195364741103}
+
+{"country": "lithuania", "tld": "lt", "z-score": 7.918229716265502, "proportion of tld in country": 0.003390633241122461, "mean": 0.00017099877238023958, "standard deviation": 0.00040661038945719133}
+
+{"country": "guam", "tld": "xyz", "z-score": 7.912868489544123, "proportion of tld in country": 0.006622516556291391, "mean": 0.0005640530063256274, "standard deviation": 0.0007656469405464369}
+
+{"country": "philippines", "tld": "jp", "z-score": 7.904061756219097, "proportion of tld in country": 0.006872084252870352, "mean": 0.0003159221613935186, "standard deviation": 0.0008294674679532071}
+
+{"country": "french_guiana", "tld": "bio", "z-score": 7.866336297686385, "proportion of tld in country": 0.0030959752321981426, "mean": 0.00018196537555453297, "standard deviation": 0.000370440538818645}
+
+{"country": "turks_and_caicos_islands", "tld": "best", "z-score": 7.7928398185838015, "proportion of tld in country": 0.0023148148148148147, "mean": 0.00012048168324442032, "standard deviation": 0.0002815832459865924}
+
+{"country": "liechtenstein", "tld": "ch", "z-score": 7.7045718237374015, "proportion of tld in country": 0.0047488127968008, "mean": 0.0005329428906864477, "standard deviation": 0.0005471906813984739}
+
+{"country": "equatorial_guinea", "tld": "xyz", "z-score": 7.689653788335219, "proportion of tld in country": 0.0064516129032258064, "mean": 0.0005640530063256274, "standard deviation": 0.0007656469405464369}
+
+{"country": "none", "tld": "zone", "z-score": 7.687167568690383, "proportion of tld in country": 0.0013534508867640291, "mean": 9.609066389727691e-05, "standard deviation": 0.00016356612648694494}
+
+{"country": "anguilla", "tld": "tk", "z-score": 7.652084733531155, "proportion of tld in country": 0.0033333333333333335, "mean": 0.0003388445223399112, "standard deviation": 0.00039132980295836006}
+
+{"country": "svalbard_and_jan_mayen", "tld": "name", "z-score": 7.629035278783606, "proportion of tld in country": 0.002688172043010753, "mean": 0.00019498699147423644, "standard deviation": 0.00032680213951429476}
+
+{"country": "curacao", "tld": "bet", "z-score": 7.594575566393692, "proportion of tld in country": 0.007600154579415174, "mean": 0.0002727949949011391, "standard deviation": 0.0009648148893188846}
+
+{"country": "palestine", "tld": "br", "z-score": 7.576495757456448, "proportion of tld in country": 0.02703432208205478, "mean": 0.0009671958426644003, "standard deviation": 0.003440525418856901}
+
+{"country": "malta", "tld": "site", "z-score": 7.564321243720602, "proportion of tld in country": 0.013303315595579205, "mean": 0.0005186943444515417, "standard deviation": 0.0016901214053727039}
+
+{"country": "isle_of_man", "tld": "pm", "z-score": 7.547878919503323, "proportion of tld in country": 0.0047169811320754715, "mean": 0.0002513249460597343, "standard deviation": 0.000591643855663439}
+
+{"country": "congo", "tld": "pw", "z-score": 7.544965734991708, "proportion of tld in country": 0.003464203233256351, "mean": 0.0003728976329832853, "standard deviation": 0.0004097176460240695}
+
