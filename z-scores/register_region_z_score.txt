@@ -1,0 +1,101 @@
+Top 50 register + region combinations with the largest z-scores:
+{"register": "IN-OP-en-rs", "region": "middle_eastern", "z-score": 11.599702534940583, "proportion of region in tld": 0.4, "mean": 0.01644134380399701, "standard deviation": 0.03306624933188148}
+
+{"register": "MT-OP-ob", "region": "russian_sphere", "z-score": 11.041519920454856, "proportion of region in tld": 0.46808510638297873, "mean": 0.021753471175451882, "standard deviation": 0.04042302494792222}
+
+{"register": "IN-IP-MT", "region": "latin_american", "z-score": 9.029694729229515, "proportion of region in tld": 0.18543046357615894, "mean": 0.01153218348016726, "standard deviation": 0.019258489385369292}
+
+{"register": "IN-IP-MT", "region": "southeast_asian", "z-score": 6.759762102219992, "proportion of region in tld": 0.09271523178807947, "mean": 0.007271780527549445, "standard deviation": 0.012640008622858091}
+
+{"register": "IN-IP-MT-ds-lt", "region": "central_asian", "z-score": 6.67199623152863, "proportion of region in tld": 0.015873015873015872, "mean": 0.0013186805245833833, "standard deviation": 0.0021814064102218364}
+
+{"register": "OP-av-rs", "region": "culturally_neutral", "z-score": 6.515318422100881, "proportion of region in tld": 0.7819548872180451, "mean": 0.0695785158770158, "standard deviation": 0.10933868848597605}
+
+{"register": "IN-MT-fi", "region": "south_asian", "z-score": 6.51278126252081, "proportion of region in tld": 0.04893678997960967, "mean": 0.005969099345277971, "standard deviation": 0.0065974410781455915}
+
+{"register": "MT-SP-it", "region": "north_american", "z-score": 6.091942241468653, "proportion of region in tld": 0.5786516853932584, "mean": 0.07149311988016599, "standard deviation": 0.08325071798297713}
+
+{"register": "IN-MT-fi", "region": "southeast_asian", "z-score": 6.061693605092718, "proportion of region in tld": 0.08389163996504514, "mean": 0.007271780527549445, "standard deviation": 0.012640008622858091}
+
+{"register": "IN-IP-NA-ne", "region": "east_asian", "z-score": 6.042394844400319, "proportion of region in tld": 0.11797752808988764, "mean": 0.01633067598408081, "standard deviation": 0.016822279033950623}
+
+{"register": "IN-OP-dtp-rs", "region": "sub_saharan_african", "z-score": 5.862371279351782, "proportion of region in tld": 0.05, "mean": 0.006711345479559564, "standard deviation": 0.007384154373318194}
+
+{"register": "IN-IP-OP-dtp-rv", "region": "latin_american", "z-score": 5.826271625564202, "proportion of region in tld": 0.12373737373737374, "mean": 0.01153218348016726, "standard deviation": 0.019258489385369292}
+
+{"register": "IN-MT-en", "region": "central_asian", "z-score": 5.786641942836168, "proportion of region in tld": 0.01394169835234474, "mean": 0.0013186805245833833, "standard deviation": 0.0021814064102218364}
+
+{"register": "IN-IP-MT", "region": "oceanian", "z-score": 5.327430023444545, "proportion of region in tld": 0.046357615894039736, "mean": 0.006329716758814386, "standard deviation": 0.007513547612840272}
+
+{"register": "MT-SP", "region": "north_american", "z-score": 5.276068537253377, "proportion of region in tld": 0.5107296137339056, "mean": 0.07149311988016599, "standard deviation": 0.08325071798297713}
+
+{"register": "MT-OP-rs", "region": "global", "z-score": 5.227387535426452, "proportion of region in tld": 0.45871559633027525, "mean": 0.05801207413364161, "standard deviation": 0.0766546423966143}
+
+{"register": "IN-OP-rs", "region": "middle_eastern", "z-score": 5.105743210079031, "proportion of region in tld": 0.18526912181303115, "mean": 0.01644134380399701, "standard deviation": 0.03306624933188148}
+
+{"register": "HI-MT-OP", "region": "global", "z-score": 4.997694319919247, "proportion of region in tld": 0.44110854503464203, "mean": 0.05801207413364161, "standard deviation": 0.0766546423966143}
+
+{"register": "NA-OP-ne-rs", "region": "sub_saharan_african", "z-score": 4.979163968031159, "proportion of region in tld": 0.043478260869565216, "mean": 0.006711345479559564, "standard deviation": 0.007384154373318194}
+
+{"register": "IN-OP-en-rs", "region": "global", "z-score": 4.878868574343212, "proportion of region in tld": 0.432, "mean": 0.05801207413364161, "standard deviation": 0.0766546423966143}
+
+{"register": "IN-IP-NA-ne", "region": "south_asian", "z-score": 4.8431275991493825, "proportion of region in tld": 0.037921348314606744, "mean": 0.005969099345277971, "standard deviation": 0.0065974410781455915}
+
+{"register": "IN-OP-dtp-rs", "region": "south_asian", "z-score": 4.77926218381396, "proportion of region in tld": 0.0375, "mean": 0.005969099345277971, "standard deviation": 0.0065974410781455915}
+
+{"register": "MT-OP-av", "region": "culturally_neutral", "z-score": 4.759645650630912, "proportion of region in tld": 0.5899919289749799, "mean": 0.0695785158770158, "standard deviation": 0.10933868848597605}
+
+{"register": "IN-IP-OP-ds-rv", "region": "oceanian", "z-score": 4.734078549150454, "proportion of region in tld": 0.04189944134078212, "mean": 0.006329716758814386, "standard deviation": 0.007513547612840272}
+
+{"register": "MT-OP-ob", "region": "north_american", "z-score": 4.636040360749694, "proportion of region in tld": 0.4574468085106383, "mean": 0.07149311988016599, "standard deviation": 0.08325071798297713}
+
+{"register": "HI-OP-re-rv", "region": "latin_american", "z-score": 4.577008681607058, "proportion of region in tld": 0.09967845659163987, "mean": 0.01153218348016726, "standard deviation": 0.019258489385369292}
+
+{"register": "IN-IP-OP-dtp-rv", "region": "sub_saharan_african", "z-score": 4.5628372892941655, "proportion of region in tld": 0.04040404040404041, "mean": 0.006711345479559564, "standard deviation": 0.007384154373318194}
+
+{"register": "IN-IP-OP-dtp-rv", "region": "oceanian", "z-score": 4.535051270187565, "proportion of region in tld": 0.04040404040404041, "mean": 0.006329716758814386, "standard deviation": 0.007513547612840272}
+
+{"register": "IN-MT-dtp", "region": "russian_sphere", "z-score": 4.463450243379712, "proportion of region in tld": 0.20217963171739947, "mean": 0.021753471175451882, "standard deviation": 0.04042302494792222}
+
+{"register": "MT-OP-rv", "region": "indeterminate", "z-score": 4.380667147116636, "proportion of region in tld": 0.00857085153114034, "mean": 0.0006762447908098268, "standard deviation": 0.0018021471331202963}
+
+{"register": "IN-IP-MT-ds", "region": "indeterminate", "z-score": 4.332231349042439, "proportion of region in tld": 0.008483563096500531, "mean": 0.0006762447908098268, "standard deviation": 0.0018021471331202963}
+
+{"register": "ID-NA-OP-rv", "region": "east_asian", "z-score": 4.296499826614409, "proportion of region in tld": 0.08860759493670886, "mean": 0.01633067598408081, "standard deviation": 0.016822279033950623}
+
+{"register": "IP-MT-ds", "region": "southeast_asian", "z-score": 4.237071891523847, "proportion of region in tld": 0.06082840577208051, "mean": 0.007271780527549445, "standard deviation": 0.012640008622858091}
+
+{"register": "NA-OP-ne-rv", "region": "global", "z-score": 4.080802419777137, "proportion of region in tld": 0.3708245243128964, "mean": 0.05801207413364161, "standard deviation": 0.0766546423966143}
+
+{"register": "IP-MT-OP-ds-rv", "region": "southeast_asian", "z-score": 4.018950767124195, "proportion of region in tld": 0.0580713528788414, "mean": 0.007271780527549445, "standard deviation": 0.012640008622858091}
+
+{"register": "MT-OP-rv", "region": "southeast_asian", "z-score": 3.9724855562931505, "proportion of region in tld": 0.05748403221327409, "mean": 0.007271780527549445, "standard deviation": 0.012640008622858091}
+
+{"register": "IN-IP-MT-ds", "region": "southeast_asian", "z-score": 3.8711860447847037, "proportion of region in tld": 0.05620360551431601, "mean": 0.007271780527549445, "standard deviation": 0.012640008622858091}
+
+{"register": "IP-OP-ed-ob", "region": "russian_sphere", "z-score": 3.8344396794232, "proportion of region in tld": 0.17675312199807877, "mean": 0.021753471175451882, "standard deviation": 0.04042302494792222}
+
+{"register": "IN-NA-OP-rv", "region": "east_asian", "z-score": 3.8328578841114274, "proportion of region in tld": 0.08080808080808081, "mean": 0.01633067598408081, "standard deviation": 0.016822279033950623}
+
+{"register": "MT-NA-ne", "region": "south_asian", "z-score": 3.8249567797265733, "proportion of region in tld": 0.031204026325977546, "mean": 0.005969099345277971, "standard deviation": 0.0065974410781455915}
+
+{"register": "IN-MT-en", "region": "sub_saharan_african", "z-score": 3.811255694083736, "proportion of region in tld": 0.03485424588086185, "mean": 0.006711345479559564, "standard deviation": 0.007384154373318194}
+
+{"register": "MT-NA-nb", "region": "southeast_asian", "z-score": 3.5639923928904382, "proportion of region in tld": 0.05232067510548523, "mean": 0.007271780527549445, "standard deviation": 0.012640008622858091}
+
+{"register": "IP-MT", "region": "east_asian", "z-score": 3.5537884355330336, "proportion of region in tld": 0.07611349667424434, "mean": 0.01633067598408081, "standard deviation": 0.016822279033950623}
+
+{"register": "HI-MT-OP-av", "region": "culturally_neutral", "z-score": 3.5307778842193387, "proportion of region in tld": 0.4556291390728477, "mean": 0.0695785158770158, "standard deviation": 0.10933868848597605}
+
+{"register": "HI-OP-re-rv", "region": "oceanian", "z-score": 3.4370746560606737, "proportion of region in tld": 0.03215434083601286, "mean": 0.006329716758814386, "standard deviation": 0.007513547612840272}
+
+{"register": "IN-IP-MT-ds-lt", "region": "oceanian", "z-score": 3.3827316065425825, "proportion of region in tld": 0.031746031746031744, "mean": 0.006329716758814386, "standard deviation": 0.007513547612840272}
+
+{"register": "MT-NA-sr", "region": "latin_american", "z-score": 3.364182258516957, "proportion of region in tld": 0.07632125179626377, "mean": 0.01153218348016726, "standard deviation": 0.019258489385369292}
+
+{"register": "IN-NA-OP-dtp-rv", "region": "north_american", "z-score": 3.2980968726533226, "proportion of region in tld": 0.3460620525059666, "mean": 0.07149311988016599, "standard deviation": 0.08325071798297713}
+
+{"register": "HI-OP-rv", "region": "global", "z-score": 3.278238511678071, "proportion of region in tld": 0.30930427493713325, "mean": 0.05801207413364161, "standard deviation": 0.0766546423966143}
+
+{"register": "MT-OP-rs", "region": "middle_eastern", "z-score": 3.276129001222707, "proportion of region in tld": 0.12477064220183487, "mean": 0.01644134380399701, "standard deviation": 0.03306624933188148}
+

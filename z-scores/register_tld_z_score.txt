@@ -1,0 +1,101 @@
+Top 50 register + tld combinations with the largest z-scores:
+{"register": "MT-OP-ob", "tld": "ru", "z-score": 13.287310555393972, "proportion of tld in register": 0.39361702127659576, "mean": 0.005743118754522805, "standard deviation": 0.029191302551788093}
+
+{"register": "HI-IN-en", "tld": "info", "z-score": 12.545757940662519, "proportion of tld in register": 0.20659340659340658, "mean": 0.008951018855434098, "standard deviation": 0.015753722387500117}
+
+{"register": "HI-MT", "tld": "fr", "z-score": 11.911045505790984, "proportion of tld in register": 0.16884371079827165, "mean": 0.0024899580089845067, "standard deviation": 0.013966343484155801}
+
+{"register": "ID-IN-en", "tld": "org", "z-score": 10.365528733630363, "proportion of tld in register": 0.8082736674622116, "mean": 0.0296693047763089, "standard deviation": 0.07511477539585275}
+
+{"register": "IN-OP-dtp", "tld": "de", "z-score": 10.281086931803232, "proportion of tld in register": 0.07178502879078695, "mean": 0.0031027686001000986, "standard deviation": 0.006680447373538592}
+
+{"register": "MT-NA-ne", "tld": "se", "z-score": 9.819150361752428, "proportion of tld in register": 0.07231900890437476, "mean": 0.004208713083461275, "standard deviation": 0.006936475490406669}
+
+{"register": "IN-NA-SP-dtp", "tld": "pro", "z-score": 9.642827623272675, "proportion of tld in register": 0.011764705882352941, "mean": 0.000571020712213905, "standard deviation": 0.0011608301638746932}
+
+{"register": "OP-av-rs", "tld": "tv", "z-score": 8.98822317859391, "proportion of tld in register": 0.022556390977443608, "mean": 0.0011089914021630949, "standard deviation": 0.0023861667817015285}
+
+{"register": "IN-en", "tld": "org", "z-score": 8.894194567520058, "proportion of tld in register": 0.6977547320425918, "mean": 0.0296693047763089, "standard deviation": 0.07511477539585275}
+
+{"register": "IN-IP-NA-dtp-ne", "tld": "mx", "z-score": 8.805872328392338, "proportion of tld in register": 0.008130081300813009, "mean": 0.0002452095990257299, "standard deviation": 0.0008954106314219975}
+
+{"register": "HI-IN-en", "tld": "online", "z-score": 8.682228589310078, "proportion of tld in register": 0.01978021978021978, "mean": 0.000943346068330258, "standard deviation": 0.0021695896990183215}
+
+{"register": "IN-MT", "tld": "life", "z-score": 8.678338543136068, "proportion of tld in register": 0.02469859194943092, "mean": 0.0007536646937663111, "standard deviation": 0.002759160308928407}
+
+{"register": "IN-MT-en", "tld": "wiki", "z-score": 8.574885891550373, "proportion of tld in register": 0.3073510773130545, "mean": 0.006162418455380205, "standard deviation": 0.03512450925492353}
+
+{"register": "ID-NA-OP-nb-rv", "tld": "in", "z-score": 8.561159926253614, "proportion of tld in register": 0.009900990099009901, "mean": 0.0005155472697200959, "standard deviation": 0.0010962816849745382}
+
+{"register": "IN-NA-ne-ra", "tld": "mobi", "z-score": 8.518604988969201, "proportion of tld in register": 0.025210084033613446, "mean": 0.0005567632831193299, "standard deviation": 0.002894056102192538}
+
+{"register": "HI-NA-OP-nb-re", "tld": "tw", "z-score": 8.452480574655457, "proportion of tld in register": 0.008849557522123894, "mean": 0.00033221079306266577, "standard deviation": 0.0010076742151410877}
+
+{"register": "ID-OP-rs", "tld": "biz", "z-score": 8.44394356929438, "proportion of tld in register": 0.019594440647072227, "mean": 0.0009854494498874244, "standard deviation": 0.0022038270441378455}
+
+{"register": "IN-OP-en-rs", "tld": "hu", "z-score": 8.435015452365736, "proportion of tld in register": 0.008, "mean": 0.00035657765545458, "standard deviation": 0.0009061539232155999}
+
+{"register": "MT-SP", "tld": "la", "z-score": 8.352269714819908, "proportion of tld in register": 0.008583690987124463, "mean": 0.0003250012683633352, "standard deviation": 0.0009887958603764034}
+
+{"register": "HI-ID-IN", "tld": "tk", "z-score": 8.32399522269146, "proportion of tld in register": 0.005494505494505495, "mean": 0.00022323634505169121, "standard deviation": 0.0006332619143129931}
+
+{"register": "IP-ds", "tld": "shop", "z-score": 8.253514888060622, "proportion of tld in register": 0.014438566458408299, "mean": 0.0005764701283774356, "standard deviation": 0.0016795385381909846}
+
+{"register": "ID-OP-av", "tld": "ga", "z-score": 8.175829293175342, "proportion of tld in register": 0.006896551724137931, "mean": 0.0003026613421730261, "standard deviation": 0.0008065102811612104}
+
+{"register": "MT", "tld": "one", "z-score": 8.169960218127963, "proportion of tld in register": 0.009110000794749256, "mean": 0.000418298729311695, "standard deviation": 0.0010638610021811278}
+
+{"register": "MT-NA", "tld": "ca", "z-score": 8.163545336978542, "proportion of tld in register": 0.011285691497846546, "mean": 0.0004910894742350064, "standard deviation": 0.0013222933882310983}
+
+{"register": "ID-SP-it", "tld": "gg", "z-score": 8.137749441836204, "proportion of tld in register": 0.0057306590257879654, "mean": 0.00022502828715349573, "standard deviation": 0.0006765544672990297}
+
+{"register": "HI-ID-NA-re", "tld": "il", "z-score": 8.118242766332642, "proportion of tld in register": 0.008032128514056224, "mean": 0.00046169511189723977, "standard deviation": 0.0009325211896291781}
+
+{"register": "OP-av-rs", "tld": "pw", "z-score": 8.046623772215003, "proportion of tld in register": 0.007518796992481203, "mean": 0.0004509809713272842, "standard deviation": 0.0008783579574776555}
+
+{"register": "MT-OP-rs", "tld": "nu", "z-score": 7.8565838164878485, "proportion of tld in register": 0.031192660550458717, "mean": 0.0009020703968784301, "standard deviation": 0.003855440336550903}
+
+{"register": "ID-OP-av", "tld": "tr", "z-score": 7.80865229917694, "proportion of tld in register": 0.006896551724137931, "mean": 0.00023481225414590532, "standard deviation": 0.0008531228200152025}
+
+{"register": "IN-OP-en-rs", "tld": "ws", "z-score": 7.784594114111522, "proportion of tld in register": 0.04, "mean": 0.0013112616337148562, "standard deviation": 0.0049699108006353385}
+
+{"register": "HI-IN-NA-nb", "tld": "club", "z-score": 7.752787877947516, "proportion of tld in register": 0.009345794392523364, "mean": 0.000467905653255097, "standard deviation": 0.0011451221004667306}
+
+{"register": "ID-OP-av", "tld": "gq", "z-score": 7.728562898692442, "proportion of tld in register": 0.006896551724137931, "mean": 0.00023567107440652932, "standard deviation": 0.0008618524216006993}
+
+{"register": "LY-MT", "tld": "app", "z-score": 7.631820615439613, "proportion of tld in register": 0.026438569206842923, "mean": 0.001459940748059358, "standard deviation": 0.0032729580158436062}
+
+{"register": "HI-ID-NA-nb", "tld": "ninja", "z-score": 7.6269508187177895, "proportion of tld in register": 0.0015384615384615385, "mean": 7.141334109556637e-05, "standard deviation": 0.0001923505516471399}
+
+{"register": "IN-MT-OP-rv", "tld": "digital", "z-score": 7.595226434166002, "proportion of tld in register": 0.011363636363636364, "mean": 0.0003057512825839352, "standard deviation": 0.0014558993305729727}
+
+{"register": "HI-OP-re", "tld": "name", "z-score": 7.581764969086667, "proportion of tld in register": 0.025, "mean": 0.0008991188881083638, "standard deviation": 0.003178795598407337}
+
+{"register": "MT-SP", "tld": "at", "z-score": 7.559254777425028, "proportion of tld in register": 0.06437768240343347, "mean": 0.0034152376757194025, "standard deviation": 0.008064610404424048}
+
+{"register": "IN-OP-dtp", "tld": "ar", "z-score": 7.521659902928349, "proportion of tld in register": 0.0345489443378119, "mean": 0.0012382429550848956, "standard deviation": 0.004428637004680099}
+
+{"register": "ID-NA-sr", "tld": "co", "z-score": 7.518386693542617, "proportion of tld in register": 0.0347179169249845, "mean": 0.0020145438841944144, "standard deviation": 0.0043497859811970465}
+
+{"register": "HI-IP-OP-ds", "tld": "io", "z-score": 7.440290488508221, "proportion of tld in register": 0.026246719160104987, "mean": 0.0020134230596216664, "standard deviation": 0.003257036286138621}
+
+{"register": "MT-SP-it", "tld": "cz", "z-score": 7.424864759384809, "proportion of tld in register": 0.011235955056179775, "mean": 0.0005151281506565021, "standard deviation": 0.0014439087111953746}
+
+{"register": "OP-av-rv", "tld": "best", "z-score": 7.400897069499283, "proportion of tld in register": 0.003179650238473768, "mean": 0.0001657467633114489, "standard deviation": 0.0004072348861036421}
+
+{"register": "IN-NA-OP-rv", "tld": "to", "z-score": 7.228407833634901, "proportion of tld in register": 0.0016835016835016834, "mean": 0.00011182671955491962, "standard deviation": 0.00021743031108918852}
+
+{"register": "HI-IN-OP", "tld": "site", "z-score": 7.210913319599289, "proportion of tld in register": 0.007560137457044674, "mean": 0.0004093218924400353, "standard deviation": 0.0009916657221726263}
+
+{"register": "IN-NA-SP-it", "tld": "events", "z-score": 7.108241401093531, "proportion of tld in register": 0.0036144578313253013, "mean": 0.00011400460357580553, "standard deviation": 0.0004924499647987456}
+
+{"register": "IP-NA-OP-av-nb", "tld": "dev", "z-score": 7.087629609569835, "proportion of tld in register": 0.0029154518950437317, "mean": 0.00012091717203299262, "standard deviation": 0.00039428340318990593}
+
+{"register": "IN-IP", "tld": "works", "z-score": 7.0761064228222725, "proportion of tld in register": 0.00658901679647605, "mean": 0.00020865391867967337, "standard deviation": 0.0009016770659663987}
+
+{"register": "IN-IP-NA-dtp-nb", "tld": "art", "z-score": 7.026547402755936, "proportion of tld in register": 0.002109704641350211, "mean": 0.0001608995940078222, "standard deviation": 0.0002773488792771871}
+
+{"register": "ID-SP", "tld": "fm", "z-score": 7.026529202549819, "proportion of tld in register": 0.007198228128460687, "mean": 0.0004924814579228779, "standard deviation": 0.0009543469438801161}
+
+{"register": "HI-IN-MT", "tld": "today", "z-score": 6.960326334452607, "proportion of tld in register": 0.0017574692442882249, "mean": 9.349325614353403e-05, "standard deviation": 0.00023906580068067367}
+

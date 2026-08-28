@@ -1,0 +1,101 @@
+Top 50 country + tld combinations with the largest z-scores:
+{"country": "greece-china", "tld": "gr", "z-score": 24.659577129930984, "proportion of tld in country": 0.4065040650406504, "mean": 0.004010881292310942, "standard deviation": 0.01632198239359938}
+
+{"country": "brazil-russia-finland-china", "tld": "news", "z-score": 23.0937696433661, "proportion of tld in country": 0.3185840707964602, "mean": 0.004746870145554441, "standard deviation": 0.013589691310576418}
+
+{"country": "czech_republic-slovakia-sweden-estonia-latvia-lithuania-hungary-poland-finland-denmark", "tld": "ee", "z-score": 23.005632924508088, "proportion of tld in country": 0.9955947136563876, "mean": 0.010887166090156875, "standard deviation": 0.042802888788041726}
+
+{"country": "finland-poland-china", "tld": "pl", "z-score": 21.63116677316973, "proportion of tld in country": 0.21897810218978103, "mean": 0.004541602488835599, "standard deviation": 0.009913311748255866}
+
+{"country": "burundi", "tld": "info", "z-score": 21.072404916674525, "proportion of tld in country": 0.2098360655737705, "mean": 0.00918902180897453, "standard deviation": 0.009521791392971223}
+
+{"country": "estonia-united_states", "tld": "net", "z-score": 20.549654886317786, "proportion of tld in country": 0.6055900621118012, "mean": 0.04514090733369197, "standard deviation": 0.027272922970169353}
+
+{"country": "finland-japan-portugal", "tld": "me", "z-score": 17.942780296229895, "proportion of tld in country": 0.0880503144654088, "mean": 0.0033043214620346335, "standard deviation": 0.004723124934053885}
+
+{"country": "spain-belgium", "tld": "be", "z-score": 17.584404091546197, "proportion of tld in country": 0.11021505376344086, "mean": 0.0050287259274492575, "standard deviation": 0.005981796556106245}
+
+{"country": "croatia-finland-montenegro", "tld": "info", "z-score": 17.2206200056261, "proportion of tld in country": 0.17316017316017315, "mean": 0.00918902180897453, "standard deviation": 0.009521791392971223}
+
+{"country": "chile-germany-finland-supranational", "tld": "org", "z-score": 16.825278638480835, "proportion of tld in country": 0.9647887323943662, "mean": 0.05667794310200615, "standard deviation": 0.053973001505926564}
+
+{"country": "united_kingdom-united_states-india-canada-finland", "tld": "uk", "z-score": 16.728272126195545, "proportion of tld in country": 0.10810810810810811, "mean": 0.0047947964856740214, "standard deviation": 0.006175970288087984}
+
+{"country": "switzerland-france-belgium", "tld": "shop", "z-score": 16.58662129725798, "proportion of tld in country": 0.7906976744186046, "mean": 0.0061863308908612245, "standard deviation": 0.04729783899132218}
+
+{"country": "australia-canada", "tld": "au", "z-score": 15.655766545941322, "proportion of tld in country": 0.26639344262295084, "mean": 0.0038166267573955404, "standard deviation": 0.01677189137274323}
+
+{"country": "czech_republic-slovakia-austria-norway-poland-finland", "tld": "no", "z-score": 15.559653195291004, "proportion of tld in country": 0.08661417322834646, "mean": 0.0027629304989607376, "standard deviation": 0.00538901745925562}
+
+{"country": "switzerland-finland-france-belgium", "tld": "shop", "z-score": 14.834072575934432, "proportion of tld in country": 0.7078059071729957, "mean": 0.0061863308908612245, "standard deviation": 0.04729783899132218}
+
+{"country": "finland-japan-united_kingdom-sweden", "tld": "nl", "z-score": 14.735035151015976, "proportion of tld in country": 0.10833333333333334, "mean": 0.0067870402949597106, "standard deviation": 0.006891486311206528}
+
+{"country": "lithuania-finland-germany", "tld": "store", "z-score": 14.298523531082049, "proportion of tld in country": 0.053691275167785234, "mean": 0.0029526130416409743, "standard deviation": 0.0035485245742925024}
+
+{"country": "sweden", "tld": "se", "z-score": 13.744797279964576, "proportion of tld in country": 0.1513100032402907, "mean": 0.010209766636001212, "standard deviation": 0.010265719728727286}
+
+{"country": "philippines-united_states", "tld": "jp", "z-score": 13.234917148087659, "proportion of tld in country": 0.08639523336643495, "mean": 0.0027197576255900413, "standard deviation": 0.006322327129409749}
+
+{"country": "spain-philippines", "tld": "pl", "z-score": 13.173552488075035, "proportion of tld in country": 0.13513513513513514, "mean": 0.004541602488835599, "standard deviation": 0.009913311748255866}
+
+{"country": "macau-china", "tld": "news", "z-score": 12.867457865197485, "proportion of tld in country": 0.1796116504854369, "mean": 0.004746870145554441, "standard deviation": 0.013589691310576418}
+
+{"country": "chile-supranational", "tld": "org", "z-score": 12.788535339638566, "proportion of tld in country": 0.7469135802469136, "mean": 0.05667794310200615, "standard deviation": 0.053973001505926564}
+
+{"country": "germany-netherlands-belgium-switzerland-finland", "tld": "dk", "z-score": 12.358402707303119, "proportion of tld in country": 0.05844155844155844, "mean": 0.0027947622403519047, "standard deviation": 0.004502749871415213}
+
+{"country": "finland-france-slovakia", "tld": "sk", "z-score": 12.313955384335367, "proportion of tld in country": 0.044444444444444446, "mean": 0.0019285525438850078, "standard deviation": 0.003452659245025695}
+
+{"country": "dominican_republic-united_states", "tld": "pt", "z-score": 12.14299141634252, "proportion of tld in country": 0.09508196721311475, "mean": 0.005961718281152366, "standard deviation": 0.007339233462029859}
+
+{"country": "costa_rica-finland", "tld": "cc", "z-score": 12.122365366775833, "proportion of tld in country": 0.0645933014354067, "mean": 0.00249633141505096, "standard deviation": 0.005122512656692147}
+
+{"country": "france-united_kingdom-russia-united_states-ukraine-finland", "tld": "online", "z-score": 11.938986852140298, "proportion of tld in country": 0.05, "mean": 0.002933548186384124, "standard deviation": 0.003942248399844606}
+
+{"country": "mexico-canada-united_states-china", "tld": "ar", "z-score": 11.88112117423253, "proportion of tld in country": 0.05714285714285714, "mean": 0.0028759515667017917, "standard deviation": 0.004567490288193342}
+
+{"country": "united_states-philippines-china", "tld": "de", "z-score": 11.85712925764554, "proportion of tld in country": 0.09090909090909091, "mean": 0.0051949331801431535, "standard deviation": 0.007228913159876268}
+
+{"country": "romania-italy", "tld": "la", "z-score": 11.716910960644864, "proportion of tld in country": 0.03496503496503497, "mean": 0.0011742166643197729, "standard deviation": 0.002883935741614226}
+
+{"country": "supranational-slovakia", "tld": "eu", "z-score": 11.695818704889959, "proportion of tld in country": 0.6059479553903345, "mean": 0.01843696191083533, "standard deviation": 0.05023256672351325}
+
+{"country": "ukraine", "tld": "ua", "z-score": 11.568048864710308, "proportion of tld in country": 0.07868852459016394, "mean": 0.002512232628986321, "standard deviation": 0.00658505966322137}
+
+{"country": "supranational-bulgaria", "tld": "eu", "z-score": 11.527011862774412, "proportion of tld in country": 0.5974683544303797, "mean": 0.01843696191083533, "standard deviation": 0.05023256672351325}
+
+{"country": "finland-norway-estonia-sweden", "tld": "life", "z-score": 11.463664488922092, "proportion of tld in country": 0.7243001119820829, "mean": 0.010847953654803844, "standard deviation": 0.062235959454040486}
+
+{"country": "finland-belgium-luxembourg", "tld": "be", "z-score": 11.02327960999004, "proportion of tld in country": 0.07096774193548387, "mean": 0.0050287259274492575, "standard deviation": 0.005981796556106245}
+
+{"country": "united_kingdom-united_states-india-canada-finland", "tld": "london", "z-score": 10.948714094121614, "proportion of tld in country": 0.05405405405405406, "mean": 0.002586239084529422, "standard deviation": 0.004700809111195789}
+
+{"country": "finland-germany-turkey-united_states", "tld": "nu", "z-score": 10.846398794746886, "proportion of tld in country": 0.05389221556886228, "mean": 0.0034070027506267826, "standard deviation": 0.004654559893435453}
+
+{"country": "egypt-israel", "tld": "br", "z-score": 10.836493384147607, "proportion of tld in country": 0.2601734489659773, "mean": 0.00749537234433036, "standard deviation": 0.023317328554944023}
+
+{"country": "lithuania-supranational", "tld": "eu", "z-score": 10.811740969099377, "proportion of tld in country": 0.5615384615384615, "mean": 0.01843696191083533, "standard deviation": 0.05023256672351325}
+
+{"country": "finland-germany-austria-sweden", "tld": "live", "z-score": 10.671333954264925, "proportion of tld in country": 0.10899182561307902, "mean": 0.004731618784408431, "standard deviation": 0.00977011939421142}
+
+{"country": "finland-malta-norway-sweden", "tld": "one", "z-score": 10.541040249449903, "proportion of tld in country": 0.09375, "mean": 0.003917392221188657, "standard deviation": 0.008522176716240067}
+
+{"country": "supranational-belgium", "tld": "eu", "z-score": 10.537156086264403, "proportion of tld in country": 0.5477453580901857, "mean": 0.01843696191083533, "standard deviation": 0.05023256672351325}
+
+{"country": "supranational-latvia", "tld": "eu", "z-score": 10.528789896022912, "proportion of tld in country": 0.5473251028806584, "mean": 0.01843696191083533, "standard deviation": 0.05023256672351325}
+
+{"country": "supranational-sweden", "tld": "se", "z-score": 10.456655269652137, "proportion of tld in country": 0.11755485893416928, "mean": 0.010209766636001212, "standard deviation": 0.010265719728727286}
+
+{"country": "philippines-united_states", "tld": "de", "z-score": 10.408481408742475, "proportion of tld in country": 0.0804369414101291, "mean": 0.0051949331801431535, "standard deviation": 0.007228913159876268}
+
+{"country": "finland-germany-hungary-sweden", "tld": "live", "z-score": 10.341492044067024, "proportion of tld in country": 0.10576923076923077, "mean": 0.004731618784408431, "standard deviation": 0.00977011939421142}
+
+{"country": "czech_republic-slovakia-austria-norway-poland-finland", "tld": "cz", "z-score": 10.296143166888255, "proportion of tld in country": 0.07874015748031496, "mean": 0.003123754511799476, "standard deviation": 0.007344148361465394}
+
+{"country": "supranational-luxembourg", "tld": "eu", "z-score": 10.290467064680923, "proportion of tld in country": 0.5353535353535354, "mean": 0.01843696191083533, "standard deviation": 0.05023256672351325}
+
+{"country": "supranational-slovenia", "tld": "eu", "z-score": 10.11561063951153, "proportion of tld in country": 0.5265700483091788, "mean": 0.01843696191083533, "standard deviation": 0.05023256672351325}
+
+{"country": "finland-malta-canada-united_kingdom", "tld": "pm", "z-score": 10.046273114014356, "proportion of tld in country": 0.04807692307692308, "mean": 0.0020394309952979865, "standard deviation": 0.004582544348451336}
+

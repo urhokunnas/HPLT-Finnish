@@ -1,0 +1,101 @@
+Top 50 country + register combinations with the largest z-scores:
+{"country": "finland-norway-estonia-sweden", "register": "IN", "z-score": 25.19268516390458, "proportion of register in country": 0.704180664427025, "mean": 0.023180771282800456, "standard deviation": 0.027031651795495912}
+
+{"country": "japan-united_states-south_africa-canada-singapore-finland-australia-hong_kong-new_zealand", "register": "IN-NA-ne", "z-score": 24.030540916309914, "proportion of register in country": 0.29411764705882354, "mean": 0.007891560010938024, "standard deviation": 0.011910929847343522}
+
+{"country": "finland-estonia-hungary", "register": "IN-IP", "z-score": 23.02818667988856, "proportion of register in country": 0.14877102199223805, "mean": 0.0058381524564247705, "standard deviation": 0.006206866025653782}
+
+{"country": "spain-philippines", "register": "IN-NA", "z-score": 21.55616547867468, "proportion of register in country": 0.2702702702702703, "mean": 0.01015476352794167, "standard deviation": 0.012066872793292415}
+
+{"country": "finland-bermuda", "register": "IN-NA-dtp", "z-score": 21.27774354372899, "proportion of register in country": 0.15447154471544716, "mean": 0.007539779431367938, "standard deviation": 0.006905420444706092}
+
+{"country": "chile-germany-finland-supranational", "register": "IN-NA", "z-score": 20.16813862228673, "proportion of register in country": 0.2535211267605634, "mean": 0.01015476352794167, "standard deviation": 0.012066872793292415}
+
+{"country": "serbia-australia", "register": "NA-ne-sr", "z-score": 17.141183019111047, "proportion of register in country": 0.4528301886792453, "mean": 0.016871877220850748, "standard deviation": 0.02543338525540133}
+
+{"country": "france-belgium-luxembourg-switzerland-finland", "register": "no-label", "z-score": 16.100130530352416, "proportion of register in country": 0.13450292397660818, "mean": 0.010292022437717268, "standard deviation": 0.007714900280139036}
+
+{"country": "finland-norway-estonia-sweden", "register": "IN-MT", "z-score": 16.00142200548814, "proportion of register in country": 0.1269130272489735, "mean": 0.006367580104771048, "standard deviation": 0.0075334209111451444}
+
+{"country": "qatar-france", "register": "MT-NA", "z-score": 15.971330104082229, "proportion of register in country": 0.07643312101910828, "mean": 0.004233816843521777, "standard deviation": 0.004520556754201239}
+
+{"country": "finland-united_states-ghana", "register": "NA-OP-nb-rv", "z-score": 15.379117934836847, "proportion of register in country": 0.17543859649122806, "mean": 0.00973962547572962, "standard deviation": 0.010774283136236077}
+
+{"country": "israel-russia", "register": "IN-MT", "z-score": 14.945604265301236, "proportion of register in country": 0.11895910780669144, "mean": 0.006367580104771048, "standard deviation": 0.0075334209111451444}
+
+{"country": "finland-norway-switzerland-supranational", "register": "HI-IN", "z-score": 14.903076105463636, "proportion of register in country": 0.1716867469879518, "mean": 0.007738931953032501, "standard deviation": 0.011000937918770621}
+
+{"country": "france-belgium-luxembourg-switzerland-finland", "register": "HI-IN-IP-ds", "z-score": 14.770017278729718, "proportion of register in country": 0.05847953216374269, "mean": 0.0013243667921088705, "standard deviation": 0.003869674915949008}
+
+{"country": "czech_republic-slovakia-russia-latvia-estonia-lithuania-poland-finland", "register": "IN-NA-ne", "z-score": 14.153305441720324, "proportion of register in country": 0.17647058823529413, "mean": 0.007891560010938024, "standard deviation": 0.011910929847343522}
+
+{"country": "united_kingdom-sweden-norway-estonia-finland", "register": "IN", "z-score": 14.109362767557737, "proportion of register in country": 0.40458015267175573, "mean": 0.023180771282800456, "standard deviation": 0.027031651795495912}
+
+{"country": "finland-united_kingdom-curacao", "register": "IP-OP-ds-rv", "z-score": 14.053754045405762, "proportion of register in country": 0.22439024390243903, "mean": 0.007670713638456106, "standard deviation": 0.015420757298284264}
+
+{"country": "finland-malta-estonia-vatican_city", "register": "IP-OP-ds", "z-score": 13.776597272194078, "proportion of register in country": 0.0967741935483871, "mean": 0.0039042022069868186, "standard deviation": 0.006741141481201888}
+
+{"country": "germany-sweden-norway-estonia-finland", "register": "IN", "z-score": 13.745222586966454, "proportion of register in country": 0.39473684210526316, "mean": 0.023180771282800456, "standard deviation": 0.027031651795495912}
+
+{"country": "finland-curacao", "register": "IP-OP-ds-rv", "z-score": 13.66842760914302, "proportion of register in country": 0.21844821844821846, "mean": 0.007670713638456106, "standard deviation": 0.015420757298284264}
+
+{"country": "sweden-norway-latvia-estonia-finland", "register": "IN", "z-score": 13.668221192846262, "proportion of register in country": 0.3926553672316384, "mean": 0.023180771282800456, "standard deviation": 0.027031651795495912}
+
+{"country": "egypt-palestine-iraq-israel", "register": "OP-rs", "z-score": 13.632964025874243, "proportion of register in country": 0.8663101604278075, "mean": 0.019014486532393102, "standard deviation": 0.062150510504342046}
+
+{"country": "finland-malta-united_kingdom-sweden", "register": "IN-IP-ds-lt", "z-score": 13.308794691335274, "proportion of register in country": 0.09227871939736347, "mean": 0.002455867027252138, "standard deviation": 0.006749135023368475}
+
+{"country": "finland-nigeria-united_kingdom", "register": "NA-OP-nb-rv", "z-score": 13.269535645424595, "proportion of register in country": 0.15270935960591134, "mean": 0.00973962547572962, "standard deviation": 0.010774283136236077}
+
+{"country": "czech_republic-slovakia-austria-norway-poland-finland", "register": "MT", "z-score": 13.10359772903438, "proportion of register in country": 0.9921259842519685, "mean": 0.06567571090062785, "standard deviation": 0.07070197761783793}
+
+{"country": "czech_republic-slovakia-norway-supranational-poland-finland", "register": "MT", "z-score": 13.097101198091716, "proportion of register in country": 0.9916666666666667, "mean": 0.06567571090062785, "standard deviation": 0.07070197761783793}
+
+{"country": "czech_republic-slovakia-norway-poland-finland", "register": "MT", "z-score": 12.959662211088606, "proportion of register in country": 0.9819494584837545, "mean": 0.06567571090062785, "standard deviation": 0.07070197761783793}
+
+{"country": "czech_republic-germany-slovakia-norway-poland-finland", "register": "MT", "z-score": 12.85415366922421, "proportion of register in country": 0.9744897959183674, "mean": 0.06567571090062785, "standard deviation": 0.07070197761783793}
+
+{"country": "czech_republic-slovakia-norway-vietnam-poland-finland", "register": "MT", "z-score": 12.808533614298595, "proportion of register in country": 0.9712643678160919, "mean": 0.06567571090062785, "standard deviation": 0.07070197761783793}
+
+{"country": "palestine-iraq-israel", "register": "OP-rs", "z-score": 12.587584443529819, "proportion of register in country": 0.8013392857142857, "mean": 0.019014486532393102, "standard deviation": 0.062150510504342046}
+
+{"country": "germany-france-netherlands-sweden-finland", "register": "HI", "z-score": 12.55994161365468, "proportion of register in country": 0.11382113821138211, "mean": 0.006854870515158902, "standard deviation": 0.008516462176857068}
+
+{"country": "egypt-israel", "register": "OP-rs", "z-score": 12.413615354385776, "proportion of register in country": 0.790527018012008, "mean": 0.019014486532393102, "standard deviation": 0.062150510504342046}
+
+{"country": "switzerland-finland-malta-estonia", "register": "HI-OP-av", "z-score": 12.328305685900999, "proportion of register in country": 0.07894736842105263, "mean": 0.003349495515450341, "standard deviation": 0.006132056977793645}
+
+{"country": "united_kingdom-sweden-norway-estonia-finland", "register": "IN-MT", "z-score": 12.327608162609105, "proportion of register in country": 0.09923664122137404, "mean": 0.006367580104771048, "standard deviation": 0.0075334209111451444}
+
+{"country": "finland-united_kingdom-denmark-united_states", "register": "HI-IP-ds", "z-score": 12.300260921691933, "proportion of register in country": 0.06408706166868199, "mean": 0.004137888017081257, "standard deviation": 0.00487381316813193}
+
+{"country": "finland-germany-israel-russia", "register": "IN-MT-dtp", "z-score": 12.157718374886718, "proportion of register in country": 0.06060606060606061, "mean": 0.0028154086182762563, "standard deviation": 0.0047534126228123644}
+
+{"country": "finland-malta-gibraltar", "register": "HI", "z-score": 11.994401748054447, "proportion of register in country": 0.10900473933649289, "mean": 0.006854870515158902, "standard deviation": 0.008516462176857068}
+
+{"country": "chile-france", "register": "IN-IP-ds-dtp", "z-score": 11.725914701067426, "proportion of register in country": 0.049586776859504134, "mean": 0.004391034133071434, "standard deviation": 0.003854346878569607}
+
+{"country": "finland-france-greenland", "register": "ID", "z-score": 11.576994417285299, "proportion of register in country": 0.9230769230769231, "mean": 0.05177201463266799, "standard deviation": 0.07526175422036424}
+
+{"country": "brazil-russia", "register": "NA-SP-it", "z-score": 11.501511840841728, "proportion of register in country": 0.047619047619047616, "mean": 0.004213895668474271, "standard deviation": 0.0037738649102148627}
+
+{"country": "finland-zambia", "register": "IN-ra", "z-score": 11.426354321817527, "proportion of register in country": 0.07024793388429752, "mean": 0.005811640499766936, "standard deviation": 0.005639269671648083}
+
+{"country": "france-belgium-luxembourg-switzerland-finland", "register": "HI-IP-ds", "z-score": 11.149718356456797, "proportion of register in country": 0.05847953216374269, "mean": 0.004137888017081257, "standard deviation": 0.00487381316813193}
+
+{"country": "finland-france-ukraine-russia", "register": "ID", "z-score": 11.143829751666708, "proportion of register in country": 0.8904761904761904, "mean": 0.05177201463266799, "standard deviation": 0.07526175422036424}
+
+{"country": "finland-india-supranational-china", "register": "SP-it", "z-score": 11.08250299310676, "proportion of register in country": 0.04477611940298507, "mean": 0.004014484846284794, "standard deviation": 0.00367801701312905}
+
+{"country": "germany-russia-sweden-latvia-estonia-lithuania-finland", "register": "IN-ra", "z-score": 11.032558116059068, "proportion of register in country": 0.06802721088435375, "mean": 0.005811640499766936, "standard deviation": 0.005639269671648083}
+
+{"country": "palestine-jordan-israel-syria", "register": "OP-rs", "z-score": 11.011580410562656, "proportion of register in country": 0.7033898305084746, "mean": 0.019014486532393102, "standard deviation": 0.062150510504342046}
+
+{"country": "azerbaijan-russia", "register": "HI-MT", "z-score": 11.007819833528114, "proportion of register in country": 0.0390625, "mean": 0.002823589648744228, "standard deviation": 0.0032921060572664593}
+
+{"country": "finland-france-spain-russia", "register": "ID", "z-score": 10.892486188862147, "proportion of register in country": 0.8715596330275229, "mean": 0.05177201463266799, "standard deviation": 0.07526175422036424}
+
+{"country": "finland-netherlands-curacao", "register": "IP-OP-ds-rv", "z-score": 10.867625699481875, "proportion of register in country": 0.17525773195876287, "mean": 0.007670713638456106, "standard deviation": 0.015420757298284264}
+
+{"country": "finland-israel-ukraine", "register": "IP", "z-score": 10.831171293668733, "proportion of register in country": 0.08074534161490683, "mean": 0.008390160774888559, "standard deviation": 0.0066802729712448425}
+
