@@ -4,4 +4,4 @@ The folder `code` contains Python code for filtering, sorting and analysing the 
 
 The folder `counts` contains dictionaries revealing how many documents contain particular combinations of labels, allowing further analysis.
 
-The folder `results` contains plots visualising data distribution as well as some numerical data further derived from the `counts` data. 
+The folder `top_values` contains exactly what the name suggests. `z-scores` contains combinations of factors that have the highest z-scores indicating these combinations are more common than expected.
